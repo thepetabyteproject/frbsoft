@@ -6,9 +6,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: update-best-of-list
-        uses: best-of-lists/best-of-update-action@v0.5.1
-        with:
-          github_key: ${{ secrets.GITHUB_TOKEN }}
-          libraries_key: ${{ secrets.LIBRARIES_KEY }}
-          projects_file: "./projects.yaml"
+    - name: update-best-of-list
+      uses: best-of-lists/best-of-update-action@v0.5.1
+      with:
+        github_key: ${{ secrets.GITHUB_TOKEN }}
+        libraries_key: ${{ secrets.LIBRARIES_KEY }}
+        projects_file: "./projects.yaml"
