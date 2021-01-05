@@ -7,13 +7,23 @@ configuration:
 categories:
   - category: "I/O"
     title: "Data Read and Write Packages"
-    subtitle: "These softwares read and write data in common or custom formats"
+    subtitle: "These software read and write data in common or custom formats"
+  - category: "Search"
+    title: "Single Pulse Search"
+    subtitle: "Single Pulse Search software"
+  - category: "Injection"
+    title: "Single Pulse Injection"
+    subtitle: "Single Pulse Injection into data"
 
 # Optional: add labels
 labels:
   - label: "python"
     image: "https://www.python.org/static/favicon.ico"
-    description: "Python Based"
+    description: "Python"
+  - label: "C++"
+    description: "C++"
+  - label: "CUDA"
+    description: "CUDA"
 
 # Required: list of all projects
 projects:
