@@ -1,0 +1,27 @@
+# Optional: change the default configuration
+configuration:
+    markdown_header_file: "config/header.md"
+    markdown_footer_file: "config/footer.md"
+
+# Optional: add categories
+categories:
+  - category: "I/O"
+    title: "Data Read and Write Packages"
+    subtitle: "These softwares read and write data in common or custom formats"
+
+# Optional: add labels
+labels:
+  - label: "python"
+    image: "https://www.python.org/static/favicon.ico"
+    description: "Python Based"
+
+# Required: list of all projects
+projects:
+  - name: "your"
+    github_id: "thepetabyteproject/your"
+    labels: ["python"]
+    category: "I/O"
+  - name: "blimpy"
+    github_id: "UCBerkeleySETI/blimpy"
+    labels: ["python"]
+    category: "I/O"
