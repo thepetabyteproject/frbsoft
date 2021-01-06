@@ -62,6 +62,9 @@ labels:
   - label: "HTML"
     image: "https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/html/html.svg"
     description: "HTML"
+  - label: "jupyter"
+    image: "https://git.io/JLy1E"
+    description: "Jupyter related project"
 
 # Required: list of all projects
 projects:
@@ -185,16 +188,75 @@ projects:
     category: "Injection"
     show: True
     homepage: "https://github.com/liamconnor/injectfrb"
-
-
-
-
-
-
-
-
-
-
-
-
-
+  - name: "simpulse"
+    github_id: "kmsmith137/simpulse"
+    labels: ["C++", "python"]
+    category: "Injection"
+    show: True
+    homepage: "https://github.com/kmsmith137/simpulse"
+  - name: "single_pulse_ml"
+    github_id: "liamconnor/single_pulse_ml"
+    labels: ["python"]
+    category: "ML"
+    show: True
+    homepage: "https://github.com/liamconnor/single_pulse_ml"
+  - name: "burst_search"
+    github_id: "kiyo-masui/burst_search"
+    labels: ["python", "C"]
+    category: "Search"
+    show: True
+    homepage: "https://github.com/kiyo-masui/burst_search"
+  - name: "psrqpy"
+    github_id: "mattpitkin/psrqpy"
+    labels: ["python"]
+    category: "catalog"
+    show: True
+    homepage: "https://psrqpy.readthedocs.io/en/latest/"
+  - name: "pydedisp"
+    github_id: "pravirkr/pydedisp"
+    labels: ["C++", "CUDA", "python"]
+    category: "Search"
+    show: True
+    homepage: "https://github.com/pravirkr/pydedisp"
+  - name: "heimdall"
+    github_id: "pravirkr/heimdall"
+    labels: ["C++", "CUDA", "python"]
+    category: "Search"
+    show: True
+    homepage: "https://github.com/pravirkr/heimdall"
+  - name: "Furby"
+    github_id: "vg2691994/Furby"
+    labels: ["python"]
+    category: "Injection"
+    show: True
+    homepage: "https://github.com/vg2691994/Furby"
+  - name: "FRB"
+    github_id: "FRBs/FRB"
+    labels: ["python"]
+    category: "analysis"
+    show: True
+    homepage: "https://github.com/FRBs/FRB"
+  - name: "astropath"
+    github_id: "FRBs/astropath"
+    labels: ["python"]
+    category: "analysis"
+    show: True
+    homepage: "https://github.com/FRBs/astropath"
+  - name: "visualizations"
+    github_id: "josephwkania/visualizations"
+    labels: ["python"]
+    category: "Visualization"
+    show: True
+    homepage: "https://github.com/josephwkania/visualizations"
+  - name: "visualizations"
+    github_id: "josephwkania/visualizations"
+    labels: ["jupyter"]
+    category: "Visualizations"
+    show: True
+    homepage: "https://github.com/josephwkania/visualizations"
+  - name: "joy-plotter"
+    github_id: "josephwkania/joy-plotter"
+    labels: ["python"]
+    category: "Visualizations"
+    show: True
+    homepage: "https://github.com/josephwkania/joy-plotter"
