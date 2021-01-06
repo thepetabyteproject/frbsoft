@@ -43,17 +43,25 @@ labels:
     image: "https://www.python.org/static/favicon.ico"
     description: "Python"
   - label: "C++"
+    imgae: "https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/cpp/cpp.svg"
     description: "C++"
   - label: "CUDA"
+    image: "https://upload.wikimedia.org/wikipedia/en/b/b9/Nvidia_CUDA_Logo.jpg"
     description: "CUDA"
   - label: "OpenCL"
+    image: "https://upload.wikimedia.org/wikipedia/en/1/1c/OpenCL_Logo.svg"
     description: "OpenCL"
   - label: "C"
+    image: "https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/c/c.svg"
     description: "C"
   - label: "Fortran"
     description: "Fortran"
-  - label: "VBA"
-    description: "Visual Basic for Applications"
+  - label: "JS"
+    image: "https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/javascript/javascript.svg"
+    description: "Javascript"
+  - label: "HTML"
+    image: "https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/html/html.svg"
+    description: "HTML"
 
 # Required: list of all projects
 projects:
@@ -155,7 +163,7 @@ projects:
     homepage: "https://sigpyproc3.readthedocs.io/en/latest/"
   - name: "FRB hosts"
     github_id: "FRBs/FRBhostpage"
-    labels: ["VBA"]
+    labels: ["HTML","JS"]
     category: "catalog"
     show: True
     homepage: "https://frbhosts.org/"
