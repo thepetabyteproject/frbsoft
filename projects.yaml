@@ -20,6 +20,22 @@ categories:
   - category: "popsynth"
     title: "Population Synthesis of FRBs"
     subtitle: "Population synthesis and analysis of FRBs"
+  - category: "catalog"
+    title: "Catalog or Tools for Catalogues"
+    subtitle: "FRB catalogues or tools to query FRB catalogues"
+  - category: "others"
+    title: "Other Things"
+    subtitle: "Some Other Softwares"
+  - category: "analysis"
+    title: "Burst Analysis Software"
+    subtitle: "Analysis of bursts"
+  - category: "Visualization"
+    title: "Visualizations"
+    subtitle: "Visualizations of bursts or data"
+  - category: "rfi"
+    title: "RFI MItigation"
+    subtitle: "Algorithms and/or scripts for RFI mitigation"
+
 
 # Optional: add labels
 labels:
@@ -32,6 +48,10 @@ labels:
     description: "CUDA"
   - label: "OpenCL"
     description: "OpenCL"
+  - label: "C"
+    description: "C"
+  - label: "Fortran"
+    description: "Fortran"
 
 # Required: list of all projects
 projects:
@@ -62,6 +82,74 @@ projects:
   - name: "rfpipe"
     github_id: "realfastvla/rfpipe"
     labels: ["python"]
-    category: "search"
+    category: "Search"
     show: True
     homepage: 'https://realfastvla.github.io/rfpipe/'
+  - name: "PreFRBLE"
+    github_id: "FRBs/PreFRBLE"
+    labels: ["python"]
+    category: "popsynth"
+    show: True
+    homepage: "https://github.com/FRBs/PreFRBLE"
+  - name: "frbcat"
+    github_id: "davidgardenier/frbcat"
+    labels: ["python"]
+    category: "catalog"
+    show: True
+    homepage: "https://github.com/davidgardenier/frbcat"
+  - name: "frbpa"
+    github_id: "KshitijAggarwal/frbpa"
+    labels: ["python"]
+    category: "analysis"
+    show: True
+    homepage: "https://github.com/KshitijAggarwal/frbpa"
+  - name: "casp"
+    github_id: "KshitijAggarwal/casp"
+    labels: ["python"]
+    category: "analysis"
+    show: True
+    homepage: "https://github.com/KshitijAggarwal/casp"
+  - name: "presto"
+    github_id: "scottransom/presto"
+    labels: ["python", "C", "Fortran"]
+    category: "Search"
+    show: True
+    homepage: "https://www.cv.nrao.edu/~sransom/presto/"
+  - name: "DM_IGM"
+    github_id: "NihanPol/DM_IGM"
+    labels: ["python"]
+    category: "analysis"
+    show: True
+    homepage: "https://github.com/NihanPol/DM_IGM"
+  - name: "DM_Phase"
+    github_id: "danielemichilli/DM_phase"
+    labels: ["python"]
+    category: "analysis"
+    show: True
+    homepage: "https://github.com/danielemichilli/DM_phase"
+  - name: "RFIm"
+    github_id: "TRASAL/RFIm"
+    labels: ["C++"]
+    category: "rfi"
+    show: True
+    homepage: "https://github.com/TRASAL/RFIm"
+  - name: "Amber"
+    github_id: "TRASAL/AMBER"
+    labels: ["C++"]
+    category: "Search"
+    show: True
+    homepage: "http://alert.eu/"
+  - name: "RM-Tools"
+    github_id: "CIRADA-Tools/RM-Tools"
+    labels: ["python"]
+    category: "analysis"
+    show: True
+    homepage: "https://github.com/CIRADA-Tools/RM-Tools/wiki"
+
+
+
+
+
+
+
+
