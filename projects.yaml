@@ -14,6 +14,12 @@ categories:
   - category: "Injection"
     title: "Single Pulse Injection"
     subtitle: "Single Pulse Injection into data"
+  - category: "ML"
+    title: "Machine Learning Classifiers"
+    subtitle: "ML Classifiers"
+  - category: "popsynth"
+    title: "Population Synthesis of FRBs"
+    subtitle: "Population synthesis and analysis of FRBs"
 
 # Optional: add labels
 labels:
@@ -24,6 +30,8 @@ labels:
     description: "C++"
   - label: "CUDA"
     description: "CUDA"
+  - label: "OpenCL"
+    description: "OpenCL"
 
 # Required: list of all projects
 projects:
@@ -31,7 +39,29 @@ projects:
     github_id: "thepetabyteproject/your"
     labels: ["python"]
     category: "I/O"
+    show: True
+    homepage: 'https://thepetabyteproject.github.io/your/'
   - name: "blimpy"
     github_id: "UCBerkeleySETI/blimpy"
     labels: ["python"]
     category: "I/O"
+    show: True
+    homepage: 'https://blimpy.readthedocs.io/en/latest/'
+  - name: "fetch"
+    github_id: "devanshkv/fetch"
+    labels: ["python", "CUDA"]
+    category: "ML"
+    show: True
+    homepage: 'https://github.com/devanshkv/fetch'
+  - name: "Frbpoppy"
+    github_id: "davidgardenier/frbpoppy"
+    labels: ["python"]
+    category: "popsynth"
+    show: True
+    homepage: 'https://davidgardenier.github.io/frbpoppy/html/index.html'
+  - name: "rfpipe"
+    github_id: "realfastvla/rfpipe"
+    labels: ["python"]
+    category: "search"
+    show: True
+    homepage: 'https://realfastvla.github.io/rfpipe/'
