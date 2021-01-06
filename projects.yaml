@@ -52,6 +52,8 @@ labels:
     description: "C"
   - label: "Fortran"
     description: "Fortran"
+  - label: "VBA"
+    description: "Visual Basic for Applications"
 
 # Required: list of all projects
 projects:
@@ -145,6 +147,41 @@ projects:
     category: "analysis"
     show: True
     homepage: "https://github.com/CIRADA-Tools/RM-Tools/wiki"
+  - name: "sigpyproc3"
+    github_id: "FRBs/sigpyproc3"
+    labels: ["python", "C++"]
+    category: "I/O"
+    show: True
+    homepage: "https://sigpyproc3.readthedocs.io/en/latest/"
+  - name: "FRB hosts"
+    github_id: "FRBs/FRBhostpage"
+    labels: ["VBA"]
+    category: "catalog"
+    show: True
+    homepage: "https://frbhosts.org/"
+  - name: "pygedm"
+    github_id: "FRBs/pygedm"
+    labels: ["C++", "Fortran", "python"]
+    category: "analysis"
+    show: True
+    homepage: "https://pygedm.readthedocs.io/en/latest/"
+  - name: "FRB.software"
+    github_id: "FRBs/FRBs.github.io"
+    labels: [""]
+    category: "catalog"
+    show: True
+    homepage: "https://frb.software/"
+  - name: "injectfrb"
+    github_id: "liamconnor/injectfrb"
+    labels: ["python"]
+    category: "Injection"
+    show: True
+    homepage: "https://github.com/liamconnor/injectfrb"
+
+
+
+
+
 
 
 
