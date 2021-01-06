@@ -42,9 +42,9 @@ labels:
   - label: "python"
     image: "https://www.python.org/static/favicon.ico"
     description: "Python"
-  - label: "C++"
+  - label: "cpp"
     imgae: "https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/cpp/cpp.svg"
-    description: "C++"
+    description: "cpp"
   - label: "CUDA"
     image: "https://upload.wikimedia.org/wikipedia/en/b/b9/Nvidia_CUDA_Logo.jpg"
     description: "CUDA"
@@ -64,7 +64,7 @@ labels:
     description: "HTML"
   - label: "jupyter"
     image: "https://git.io/JLy1E"
-    description: "Jupyter related project"
+    description: "Jupyter based project"
 
 # Required: list of all projects
 projects:
@@ -142,13 +142,13 @@ projects:
     homepage: "https://github.com/danielemichilli/DM_phase"
   - name: "RFIm"
     github_id: "TRASAL/RFIm"
-    labels: ["C++"]
+    labels: ["cpp"]
     category: "rfi"
     show: True
     homepage: "https://github.com/TRASAL/RFIm"
   - name: "Amber"
     github_id: "TRASAL/AMBER"
-    labels: ["C++"]
+    labels: ["cpp"]
     category: "Search"
     show: True
     homepage: "http://alert.eu/"
@@ -160,7 +160,7 @@ projects:
     homepage: "https://github.com/CIRADA-Tools/RM-Tools/wiki"
   - name: "sigpyproc3"
     github_id: "FRBs/sigpyproc3"
-    labels: ["python", "C++"]
+    labels: ["python", "cpp"]
     category: "I/O"
     show: True
     homepage: "https://sigpyproc3.readthedocs.io/en/latest/"
@@ -172,7 +172,7 @@ projects:
     homepage: "https://frbhosts.org/"
   - name: "pygedm"
     github_id: "FRBs/pygedm"
-    labels: ["C++", "Fortran", "python"]
+    labels: ["cpp", "Fortran", "python"]
     category: "analysis"
     show: True
     homepage: "https://pygedm.readthedocs.io/en/latest/"
@@ -190,7 +190,7 @@ projects:
     homepage: "https://github.com/liamconnor/injectfrb"
   - name: "simpulse"
     github_id: "kmsmith137/simpulse"
-    labels: ["C++", "python"]
+    labels: ["cpp", "python"]
     category: "Injection"
     show: True
     homepage: "https://github.com/kmsmith137/simpulse"
@@ -214,13 +214,13 @@ projects:
     homepage: "https://psrqpy.readthedocs.io/en/latest/"
   - name: "pydedisp"
     github_id: "pravirkr/pydedisp"
-    labels: ["C++", "CUDA", "python"]
+    labels: ["cpp", "CUDA", "python"]
     category: "Search"
     show: True
     homepage: "https://github.com/pravirkr/pydedisp"
   - name: "heimdall"
     github_id: "pravirkr/heimdall"
-    labels: ["C++", "CUDA", "python"]
+    labels: ["cpp", "CUDA", "python"]
     category: "Search"
     show: True
     homepage: "https://github.com/pravirkr/heimdall"
@@ -248,15 +248,39 @@ projects:
     category: "Visualization"
     show: True
     homepage: "https://github.com/josephwkania/visualizations"
-  - name: "visualizations"
-    github_id: "josephwkania/visualizations"
-    labels: ["jupyter"]
-    category: "Visualizations"
-    show: True
-    homepage: "https://github.com/josephwkania/visualizations"
   - name: "joy-plotter"
     github_id: "josephwkania/joy-plotter"
     labels: ["python"]
-    category: "Visualizations"
+    category: "Visualization"
     show: True
     homepage: "https://github.com/josephwkania/joy-plotter"
+  - name: "AstroAccelerate"
+    github_id: "AstroAccelerateOrg/astro-accelerate"
+    labels: ["cpp","CUDA","python"]
+    category: "Search"
+    show: True
+    homepage: "https://github.com/AstroAccelerateOrg/astro-accelerate"
+  - name: "RFIClean"
+    github_id: "ymaan4/RFIClean"
+    "labels" : ["C"]
+    show: True
+    category: "rfi"
+    homepage: "https://github.com/ymaan4/RFIClean"
+  - name: "dfdt"
+    github_id: "zpleunis/dfdt"
+    homepage: "https://github.com/zpleunis/dfdt"
+    category: "analysis"
+    show: True
+    labels: ["python"]
+  - name: "SPANDAK"
+    github_id: "gajjarv/PulsarSearch"
+    homepage: "https://github.com/gajjarv/PulsarSearch"
+    category: "search"
+    show: True
+    labels: ["python"]
+  - name: "psrdada-python"
+    github_id: "TRASAL/psrdada-python"
+    homepage: "https://trasal.github.io/psrdada-python/index.html"
+    show: True
+    category: "I/O"
+    labels: ["python"]
