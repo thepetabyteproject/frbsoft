@@ -70,12 +70,14 @@ labels:
 projects:
   - name: "your"
     github_id: "thepetabyteproject/your"
+    pypi_id: "your"
     labels: ["python"]
     category: "I/O"
     show: True
     homepage: 'https://thepetabyteproject.github.io/your/'
   - name: "blimpy"
     github_id: "UCBerkeleySETI/blimpy"
+    pypi_id: "blimpy"
     labels: ["python"]
     category: "I/O"
     show: True
@@ -163,7 +165,7 @@ projects:
     labels: ["python", "cpp"]
     category: "I/O"
     show: True
-    homepage: "https://sigpyproc3.readthedocs.io/en/latest/"
+    homepage: "https://sigpyproc3.readthedocs.io"
   - name: "FRB hosts"
     github_id: "FRBs/FRBhostpage"
     labels: ["HTML","JS"]
@@ -175,7 +177,7 @@ projects:
     labels: ["cpp", "Fortran", "python"]
     category: "analysis"
     show: True
-    homepage: "https://pygedm.readthedocs.io/en/latest/"
+    homepage: "https://pygedm.readthedocs.io"
   - name: "FRB.software"
     github_id: "FRBs/FRBs.github.io"
     labels: [""]
@@ -208,10 +210,11 @@ projects:
     homepage: "https://github.com/kiyo-masui/burst_search"
   - name: "psrqpy"
     github_id: "mattpitkin/psrqpy"
+    pypi_id: "psrqpy"
     labels: ["python"]
     category: "catalog"
     show: True
-    homepage: "https://psrqpy.readthedocs.io/en/latest/"
+    homepage: "https://psrqpy.readthedocs.io"
   - name: "pydedisp"
     github_id: "pravirkr/pydedisp"
     labels: ["cpp", "CUDA", "python"]
@@ -275,7 +278,7 @@ projects:
   - name: "SPANDAK"
     github_id: "gajjarv/PulsarSearch"
     homepage: "https://github.com/gajjarv/PulsarSearch"
-    category: "search"
+    category: "Search"
     show: True
     labels: ["python"]
   - name: "psrdada-python"
@@ -283,4 +286,11 @@ projects:
     homepage: "https://trasal.github.io/psrdada-python/index.html"
     show: True
     category: "I/O"
+    labels: ["python"]
+  - name: "fruitbat"
+    github_id: "abatten/fruitbat"
+    homepage: "https://fruitbat.readthedocs.io/"
+    show: True
+    category: "analysis"
+    pypi_id: "fruitbat"
     labels: ["python"]
