@@ -2,6 +2,8 @@
 configuration:
     markdown_header_file: "config/header.md"
     markdown_footer_file: "config/footer.md"
+    hide_license_risk: True
+    
 
 # Optional: add categories
 categories:
@@ -35,6 +37,9 @@ categories:
   - category: "rfi"
     title: "RFI MItigation"
     subtitle: "Algorithms and/or scripts for RFI mitigation"
+  - category: "containers"
+    title: Containers
+    subtitle: Docker and Signularity Containers
 
 
 # Optional: add labels
@@ -294,3 +299,17 @@ projects:
     category: "analysis"
     pypi_id: "fruitbat"
     labels: ["python"]
+  - name: "radio_transients"
+    github_id: "josephwkania/radio_transients
+    homepage: "https://github.com/josephwkania/radio_transients"
+    show: True
+    category: "containers"
+    labels: ["python","C","cpp","CUDA"]
+  - name: "iqrm_apollo"
+    homepage: "https://gitlab.com/kmrajwade/iqrm_apollo"
+    gitlab_id: "kmrajwade/iqrm_apollo"
+    show: True
+    category: "rfi"
+    labels: ["cpp"]
+    
+  
