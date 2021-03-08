@@ -300,7 +300,7 @@ projects:
     pypi_id: "fruitbat"
     labels: ["python"]
   - name: "radio_transients"
-    github_id: "josephwkania/radio_transients
+    github_id: "josephwkania/radio_transients"
     homepage: "https://github.com/josephwkania/radio_transients"
     show: True
     category: "containers"
