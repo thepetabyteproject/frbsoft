@@ -311,5 +311,14 @@ projects:
     show: True
     category: "rfi"
     labels: ["cpp"]
+  - name: "burstfit"
+    github_id: "thepetabyteproject/burstfit"
+    homepage: "https://github.com/thepetabyteproject/burstfit/"
+    show: True
+    category: "analysis"
+    labels: ["python"]
+    pypi_id: "burstfit"
+
+
     
   
