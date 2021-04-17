@@ -318,7 +318,21 @@ projects:
     category: "analysis"
     labels: ["python"]
     pypi_id: "burstfit"
-
-
-    
-  
+  - name: "Filterbank Cleaner"
+    homepage: "https://gitlab.com/houben.ljm/fil_cleaner"
+    gitlab_id: "houben.ljm/fil_cleaner"
+    show: True
+    category: "rfi"
+    labels: ["python"]
+  - name: "Heimdall Candidate Plotter"
+    homepage: "https://gitlab.com/houben.ljm/heim_cand_plotter"
+    gitlab_id: "houben.ljm/heim_cand_plotter"
+    show: True
+    category: "Visualization"
+    labels: ["python"]
+  - name: "FRB Faker"
+    homepage: "https://gitlab.com/houben.ljm/frb-faker"
+    gitlab_id: "houben.ljm/frb-faker"
+    show: True
+    category: "Injection"
+    labels: ["python"]
