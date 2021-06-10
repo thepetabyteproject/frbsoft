@@ -336,3 +336,8 @@ projects:
     show: True
     category: "Injection"
     labels: ["python"]
+  - name: "FRBSTATS"
+    github_id: "HeRTA/FRBSTATS"
+    homepage: "https://www.herta-experiment.org/frbstats/"
+    show: True
+    category: "catalog"
