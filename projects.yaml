@@ -341,3 +341,8 @@ projects:
     homepage: "https://www.herta-experiment.org/frbstats/"
     show: True
     category: "catalog"
+  - name: "burstpy"
+    github_id: "pravirkr/burstpy"
+    show: True
+    category: "analysis"
+    labels: ["python"]
