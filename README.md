@@ -67,7 +67,7 @@ _These software read and write data in common or custom formats_
 
 <details><summary><b><a href="https://blimpy.readthedocs.io/en/latest/">blimpy</a></b> (🥇21 ·  ⭐ 28) - Breakthrough Listen I/O Methods for Python. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/UCBerkeleySETI/blimpy) (👨‍💻 24 · 🔀 30 · 📦 24 · 📋 110 - 20% open · ⏱️ 29.05.2021):
+- [GitHub](https://github.com/UCBerkeleySETI/blimpy) (👨‍💻 24 · 🔀 30 · 📦 24 · 📋 110 - 20% open · ⏱️ 07.06.2021):
 
 	```
 	git clone https://github.com/UCBerkeleySETI/blimpy
@@ -84,7 +84,7 @@ _These software read and write data in common or custom formats_
 	```
 	git clone https://github.com/thepetabyteproject/your
 	```
-- [PyPi](https://pypi.org/project/your) (📥 140 / month · ⏱️ 25.04.2021):
+- [PyPi](https://pypi.org/project/your) (📥 150 / month · ⏱️ 25.04.2021):
 	```
 	pip install your
 	```
@@ -115,7 +115,7 @@ _Single Pulse Search software_
 
 <details><summary><b><a href="https://www.cv.nrao.edu/~sransom/presto/">presto</a></b> (🥇17 ·  ⭐ 160) - Open source pulsar search and analysis toolkit. <code>Unlicensed</code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code> <code><img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/c/c.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/scottransom/presto) (👨‍💻 37 · 🔀 140 · 📦 19 · 📋 51 - 33% open · ⏱️ 27.05.2021):
+- [GitHub](https://github.com/scottransom/presto) (👨‍💻 37 · 🔀 140 · 📦 20 · 📋 52 - 32% open · ⏱️ 10.06.2021):
 
 	```
 	git clone https://github.com/scottransom/presto
@@ -249,7 +249,7 @@ _ML Classifiers_
 
 _Population synthesis and analysis of FRBs_
 
-<details><summary><b><a href="https://davidgardenier.github.io/frbpoppy/html/index.html">Frbpoppy</a></b> (🥇12 ·  ⭐ 21 · 📉) - Fast Radio Burst Population Synthesis in Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://davidgardenier.github.io/frbpoppy/html/index.html">Frbpoppy</a></b> (🥇12 ·  ⭐ 21) - Fast Radio Burst Population Synthesis in Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/davidgardenier/frbpoppy) (👨‍💻 4 · 🔀 7 · 📋 54 - 33% open · ⏱️ 18.12.2020):
 
@@ -285,15 +285,15 @@ _FRB catalogues or tools to query FRB catalogues_
 	pip install psrqpy
 	```
 </details>
-<details><summary><b><a href="https://github.com/davidgardenier/frbcat">frbcat</a></b> (🥈6 ·  ⭐ 13 · 📉) - Query Fast Radio Burst catalogues. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/davidgardenier/frbcat">frbcat</a></b> (🥈9 ·  ⭐ 13 · 📈) - Query Fast Radio Burst catalogues. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/davidgardenier/frbcat) (👨‍💻 2 · 🔀 2 · 📦 1 · 📋 4 - 50% open · ⏱️ 30.03.2021):
+- [GitHub](https://github.com/davidgardenier/frbcat) (👨‍💻 3 · 🔀 3 · 📦 1 · 📋 4 - 50% open · ⏱️ 09.06.2021):
 
 	```
 	git clone https://github.com/davidgardenier/frbcat
 	```
 </details>
-<details><summary><b><a href="https://frbhosts.org/">FRB hosts</a></b> (🥈6 · 💤) - Hosting for the FRB host webpage. <code>Unlicensed</code> <code><img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/html/html.svg" style="display:inline;" width="13" height="13"></code> <code><img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/javascript/javascript.svg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://frbhosts.org/">FRB hosts</a></b> (🥉6 · 💤) - Hosting for the FRB host webpage. <code>Unlicensed</code> <code><img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/html/html.svg" style="display:inline;" width="13" height="13"></code> <code><img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/javascript/javascript.svg" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/FRBs/FRBhostpage) (👨‍💻 5 · 🔀 1 · ⏱️ 23.09.2020):
 
@@ -332,7 +332,7 @@ _Analysis of bursts_
 	```
 	git clone https://github.com/abatten/fruitbat
 	```
-- [PyPi](https://pypi.org/project/fruitbat) (📥 29 / month · ⏱️ 13.08.2019):
+- [PyPi](https://pypi.org/project/fruitbat) (📥 32 / month · ⏱️ 13.08.2019):
 	```
 	pip install fruitbat
 	```
@@ -345,9 +345,9 @@ _Analysis of bursts_
 	git clone https://github.com/FRBs/FRB
 	```
 </details>
-<details><summary><b><a href="https://pygedm.readthedocs.io">pygedm</a></b> (🥈9 ·  ⭐ 21 · 📈) - Python bindings for YMW16, NE2001 and YT2020 electron.. <code>Unlicensed</code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://pygedm.readthedocs.io">pygedm</a></b> (🥈9 ·  ⭐ 21) - Python bindings for YMW16, NE2001 and YT2020 electron.. <code>Unlicensed</code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/FRBs/pygedm) (👨‍💻 8 · 🔀 7 · 📦 1 · 📋 5 - 60% open · ⏱️ 01.06.2021):
+- [GitHub](https://github.com/FRBs/pygedm) (👨‍💻 8 · 🔀 7 · 📦 1 · 📋 5 - 60% open · ⏱️ 08.06.2021):
 
 	```
 	git clone https://github.com/FRBs/pygedm
@@ -384,7 +384,7 @@ _Analysis of bursts_
 	```
 	git clone https://github.com/thepetabyteproject/burstfit
 	```
-- [PyPi](https://pypi.org/project/burstfit) (📥 59 / month · ⏱️ 29.03.2021):
+- [PyPi](https://pypi.org/project/burstfit) (📥 51 / month · ⏱️ 29.03.2021):
 	```
 	pip install burstfit
 	```
@@ -495,7 +495,7 @@ _Docker and Signularity Containers_
 
 <details><summary><b><a href="https://github.com/josephwkania/radio_transients">radio_transients</a></b> (🥇6 ·  ⭐ 4 · 🐣) - Singularity containers with common radio transient.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code> <code><img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/c/c.svg" style="display:inline;" width="13" height="13"></code> <code><img src="https://upload.wikimedia.org/wikipedia/en/b/b9/Nvidia_CUDA_Logo.jpg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/josephwkania/radio_transients) (⏱️ 15.05.2021):
+- [GitHub](https://github.com/josephwkania/radio_transients) (⏱️ 06.06.2021):
 
 	```
 	git clone https://github.com/josephwkania/radio_transients
