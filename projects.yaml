@@ -70,6 +70,7 @@ labels:
   - label: "jupyter"
     image: "https://git.io/JLy1E"
     description: "Jupyter based project"
+    
 
 # Required: list of all projects
 projects:
@@ -346,3 +347,22 @@ projects:
     show: True
     category: "analysis"
     labels: ["python"]
+  - name: "IQRM"
+    github_id: "v-morello/iqrm"
+    labels: ["python"]
+    category: "rfi"
+    show: True
+    homepage: "https://github.com/v-morello/iqrm"
+  - name: "TPP-FRB121102"
+    github_id: "thepetabyteproject/FRB121102"
+    homepage: "https://thepetabyteproject.github.io/FRB121102/"
+    show: True
+    category: "analysis"
+    labels: ["python", "jupyter"]
+  - name: "subdriftlaw"
+    github_id: "mef51/subdriftlaw"
+    show: True
+    category: "analysis"
+    labels: ["python", "jupyter"]
+    homepage: "https://github.com/mef51/subdriftlaw"
+  
