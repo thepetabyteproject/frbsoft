@@ -293,6 +293,7 @@ projects:
     show: True
     category: "I/O"
     labels: ["python"]
+    license: http://www.apache.org/licenses/LICENSE-2.0
   - name: "fruitbat"
     github_id: "abatten/fruitbat"
     homepage: "https://fruitbat.readthedocs.io/"
