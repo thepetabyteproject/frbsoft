@@ -65,26 +65,26 @@ This list contains 48 awesome open-source FRB softwares with a total of 570 star
 
 _These software read and write data in common or custom formats_
 
-<details><summary><b><a href="https://blimpy.readthedocs.io/en/latest/">blimpy</a></b> (🥇21 ·  ⭐ 32) - Breakthrough Listen I/O Methods for Python. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://blimpy.readthedocs.io/en/latest/">blimpy</a></b> (🥇21 ·  ⭐ 33) - Breakthrough Listen I/O Methods for Python. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/UCBerkeleySETI/blimpy) (👨‍💻 24 · 🔀 37 · 📦 27 · 📋 130 - 13% open · ⏱️ 03.10.2021):
+- [GitHub](https://github.com/UCBerkeleySETI/blimpy) (👨‍💻 24 · 🔀 37 · 📦 27 · 📋 130 - 12% open · ⏱️ 03.10.2021):
 
 	```
 	git clone https://github.com/UCBerkeleySETI/blimpy
 	```
-- [PyPi](https://pypi.org/project/blimpy) (📥 260 / month · 📦 6 · ⏱️ 03.10.2021):
+- [PyPi](https://pypi.org/project/blimpy) (📥 270 / month · 📦 6 · ⏱️ 03.10.2021):
 	```
 	pip install blimpy
 	```
 </details>
-<details><summary><b><a href="https://thepetabyteproject.github.io/your/">your</a></b> (🥈12 ·  ⭐ 16 · 📉) - Your Unified Reader. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://thepetabyteproject.github.io/your/">your</a></b> (🥈14 ·  ⭐ 16 · 📈) - Your Unified Reader. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/thepetabyteproject/your) (👨‍💻 12 · 🔀 14 · 📦 9 · ⏱️ 24.09.2021):
+- [GitHub](https://github.com/thepetabyteproject/your) (👨‍💻 12 · 🔀 14 · 📦 9 · 📋 46 - 2% open · ⏱️ 24.09.2021):
 
 	```
 	git clone https://github.com/thepetabyteproject/your
 	```
-- [PyPi](https://pypi.org/project/your) (⏱️ 25.04.2021):
+- [PyPi](https://pypi.org/project/your) (📥 170 / month · ⏱️ 25.04.2021):
 	```
 	pip install your
 	```
@@ -115,7 +115,7 @@ _Single Pulse Search software_
 
 <details><summary><b><a href="https://www.cv.nrao.edu/~sransom/presto/">presto</a></b> (🥇17 ·  ⭐ 170) - Open source pulsar search and analysis toolkit. <code>Unlicensed</code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code> <code><img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/c/c.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/scottransom/presto) (👨‍💻 37 · 🔀 150 · 📦 22 · 📋 60 - 33% open · ⏱️ 17.08.2021):
+- [GitHub](https://github.com/scottransom/presto) (👨‍💻 37 · 🔀 150 · 📦 22 · 📋 60 - 33% open · ⏱️ 01.11.2021):
 
 	```
 	git clone https://github.com/scottransom/presto
@@ -153,7 +153,7 @@ _Single Pulse Search software_
 	git clone https://github.com/kiyo-masui/burst_search
 	```
 </details>
-<details><summary><b><a href="https://github.com/gajjarv/PulsarSearch">SPANDAK</a></b> (🥉4 ·  ⭐ 4) -  <code>Unlicensed</code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/gajjarv/PulsarSearch">SPANDAK</a></b> (🥉4 ·  ⭐ 4 · 💤) -  <code>Unlicensed</code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/gajjarv/PulsarSearch) (👨‍💻 2 · 🔀 5 · ⏱️ 18.04.2021):
 
@@ -169,7 +169,7 @@ _Single Pulse Search software_
 	git clone https://github.com/pravirkr/heimdall
 	```
 </details>
-<details><summary><b><a href="https://github.com/pravirkr/pydedisp">pydedisp</a></b> (🥉2 ·  ⭐ 2) -  <code>Unlicensed</code> <code><img src="https://upload.wikimedia.org/wikipedia/en/b/b9/Nvidia_CUDA_Logo.jpg" style="display:inline;" width="13" height="13"></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/pravirkr/pydedisp">pydedisp</a></b> (🥉2 ·  ⭐ 2 · 💤) -  <code>Unlicensed</code> <code><img src="https://upload.wikimedia.org/wikipedia/en/b/b9/Nvidia_CUDA_Logo.jpg" style="display:inline;" width="13" height="13"></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/pravirkr/pydedisp) (⏱️ 22.04.2021):
 
@@ -201,7 +201,7 @@ _Single Pulse Injection into data_
 	git clone https://github.com/vg2691994/Furby
 	```
 </details>
-<details><summary><b><a href="https://github.com/liamconnor/injectfrb">injectfrb</a></b> (🥈4 ·  ⭐ 2 · 💤) - Tools for simulating FRBs and injecting them into real.. <code>Unlicensed</code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/liamconnor/injectfrb">injectfrb</a></b> (🥈4 ·  ⭐ 2 · 💀) - Tools for simulating FRBs and injecting them into real.. <code>Unlicensed</code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/liamconnor/injectfrb) (👨‍💻 2 · 🔀 1 · ⏱️ 01.10.2020):
 
@@ -225,7 +225,7 @@ _Single Pulse Injection into data_
 
 _ML Classifiers_
 
-<details><summary><b><a href="https://github.com/devanshkv/fetch">fetch</a></b> (🥇10 ·  ⭐ 17) - A set of deep learning models for FRB/RFI binary classification. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code> <code><img src="https://upload.wikimedia.org/wikipedia/en/b/b9/Nvidia_CUDA_Logo.jpg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/devanshkv/fetch">fetch</a></b> (🥇9 ·  ⭐ 17 · 📉) - A set of deep learning models for FRB/RFI binary.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code> <code><img src="https://upload.wikimedia.org/wikipedia/en/b/b9/Nvidia_CUDA_Logo.jpg" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/devanshkv/fetch) (👨‍💻 5 · 🔀 20 · 📦 8 · 📋 15 - 6% open · ⏱️ 02.08.2021):
 
@@ -233,7 +233,7 @@ _ML Classifiers_
 	git clone https://github.com/devanshkv/fetch
 	```
 </details>
-<details><summary><b><a href="https://github.com/liamconnor/single_pulse_ml">single_pulse_ml</a></b> (🥉9 ·  ⭐ 9 · 💀) -  <code><a href="http://bit.ly/2KucAZR">GPL-2.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/liamconnor/single_pulse_ml">single_pulse_ml</a></b> (🥇9 ·  ⭐ 9 · 💀) -  <code><a href="http://bit.ly/2KucAZR">GPL-2.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/liamconnor/single_pulse_ml) (👨‍💻 30 · 🔀 7 · ⏱️ 13.01.2020):
 
@@ -257,7 +257,7 @@ _Population synthesis and analysis of FRBs_
 	git clone https://github.com/davidgardenier/frbpoppy
 	```
 </details>
-<details><summary><b><a href="https://github.com/FRBs/PreFRBLE">PreFRBLE</a></b> (🥉5 ·  ⭐ 6 · 💤) - PrEFRBLE: Probability Estimates for Fast Radio Burst to.. <code>Unlicensed</code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/FRBs/PreFRBLE">PreFRBLE</a></b> (🥉5 ·  ⭐ 6 · 💀) - PrEFRBLE: Probability Estimates for Fast Radio Burst to.. <code>Unlicensed</code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/FRBs/PreFRBLE) (👨‍💻 2 · ⏱️ 16.10.2020):
 
@@ -280,7 +280,7 @@ _FRB catalogues or tools to query FRB catalogues_
 	```
 	git clone https://github.com/mattpitkin/psrqpy
 	```
-- [PyPi](https://pypi.org/project/psrqpy) (📥 310 / month · ⏱️ 11.10.2021):
+- [PyPi](https://pypi.org/project/psrqpy) (📥 340 / month · ⏱️ 11.10.2021):
 	```
 	pip install psrqpy
 	```
@@ -301,7 +301,7 @@ _FRB catalogues or tools to query FRB catalogues_
 	git clone https://github.com/HeRTA/FRBSTATS
 	```
 </details>
-<details><summary><b><a href="https://frbhosts.org/">FRB hosts</a></b> (🥉6 · 💀) - Hosting for the FRB host webpage. <code>Unlicensed</code> <code><img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/html/html.svg" style="display:inline;" width="13" height="13"></code> <code><img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/javascript/javascript.svg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://frbhosts.org/">FRB hosts</a></b> (🥉5 · 💀) - Hosting for the FRB host webpage. <code>Unlicensed</code> <code><img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/html/html.svg" style="display:inline;" width="13" height="13"></code> <code><img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/javascript/javascript.svg" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/FRBs/FRBhostpage) (👨‍💻 5 · 🔀 1 · ⏱️ 23.09.2020):
 
@@ -335,12 +335,12 @@ _Analysis of bursts_
 </details>
 <details><summary><b><a href="https://fruitbat.readthedocs.io/">fruitbat</a></b> (🥇12 ·  ⭐ 12) - A fast radio burst (FRB) redshift estimation package written in.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/abatten/fruitbat) (👨‍💻 2 · 🔀 5 · 📦 2 · 📋 8 - 12% open · ⏱️ 06.07.2021):
+- [GitHub](https://github.com/abatten/fruitbat) (👨‍💻 2 · 🔀 4 · 📦 2 · 📋 8 - 12% open · ⏱️ 06.07.2021):
 
 	```
 	git clone https://github.com/abatten/fruitbat
 	```
-- [PyPi](https://pypi.org/project/fruitbat) (📥 55 / month · ⏱️ 06.07.2021):
+- [PyPi](https://pypi.org/project/fruitbat) (📥 61 / month · ⏱️ 06.07.2021):
 	```
 	pip install fruitbat
 	```
@@ -377,7 +377,7 @@ _Analysis of bursts_
 	git clone https://github.com/danielemichilli/DM_phase
 	```
 </details>
-<details><summary><b><a href="https://github.com/KshitijAggarwal/casp">casp</a></b> (🥈7) - Calculating Association Probability of FRBs. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/KshitijAggarwal/casp">casp</a></b> (🥈7 · 💤) - Calculating Association Probability of FRBs. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/KshitijAggarwal/casp) (⏱️ 12.04.2021):
 
@@ -392,7 +392,7 @@ _Analysis of bursts_
 	```
 	git clone https://github.com/thepetabyteproject/burstfit
 	```
-- [PyPi](https://pypi.org/project/burstfit) (📥 27 / month · ⏱️ 29.03.2021):
+- [PyPi](https://pypi.org/project/burstfit) (📥 24 / month · ⏱️ 29.03.2021):
 	```
 	pip install burstfit
 	```
@@ -403,14 +403,6 @@ _Analysis of bursts_
 
 	```
 	git clone https://github.com/FRBs/astropath
-	```
-</details>
-<details><summary><b><a href="https://thepetabyteproject.github.io/FRB121102/">TPP-FRB121102</a></b> (🥉6 ·  ⭐ 7) - Results and analysis scripts for FRB121102 burst.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code> <code><img src="https://git.io/JLy1E" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/thepetabyteproject/FRB121102) (👨‍💻 4 · ⏱️ 16.08.2021):
-
-	```
-	git clone https://github.com/thepetabyteproject/FRB121102
 	```
 </details>
 <details><summary><b><a href="https://github.com/KshitijAggarwal/frbpa">frbpa</a></b> (🥉6 ·  ⭐ 5 · 💀) - FRB Periodicity Analysis. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
@@ -427,6 +419,14 @@ _Analysis of bursts_
 
 	```
 	git clone https://github.com/zpleunis/dfdt
+	```
+</details>
+<details><summary><b><a href="https://thepetabyteproject.github.io/FRB121102/">TPP-FRB121102</a></b> (🥉5 ·  ⭐ 7 · 📉) - Results and analysis scripts for FRB121102 burst.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code> <code><img src="https://git.io/JLy1E" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/thepetabyteproject/FRB121102) (👨‍💻 4 · ⏱️ 16.08.2021):
+
+	```
+	git clone https://github.com/thepetabyteproject/FRB121102
 	```
 </details>
 <details><summary><b><a href="https://github.com/NihanPol/DM_IGM">DM_IGM</a></b> (🥉4 ·  ⭐ 1 · 💀) -  <code>Unlicensed</code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
@@ -461,7 +461,7 @@ _Visualizations of bursts or data_
 	git clone https://github.com/josephwkania/visualizations
 	```
 </details>
-<details><summary><b><a href="https://github.com/josephwkania/joy-plotter">joy-plotter</a></b> (🥉3) -  <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/josephwkania/joy-plotter">joy-plotter</a></b> (🥉3 · 💤) -  <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/josephwkania/joy-plotter) (👨‍💻 2 · ⏱️ 24.04.2021):
 
@@ -485,7 +485,7 @@ _Visualizations of bursts or data_
 
 _Algorithms and/or scripts for RFI mitigation_
 
-<details><summary><b><a href="https://github.com/ymaan4/RFIClean">RFIClean</a></b> (🥇8 ·  ⭐ 6) - Mitigation of periodic as well as narrow-band and spiky/bursty.. <code>Unlicensed</code> <code><img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/c/c.svg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/ymaan4/RFIClean">RFIClean</a></b> (🥇8 ·  ⭐ 8 · 💤) - Mitigation of periodic as well as narrow-band and.. <code>Unlicensed</code> <code><img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/c/c.svg" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/ymaan4/RFIClean) (🔀 3 · ⏱️ 23.04.2021):
 
@@ -501,7 +501,7 @@ _Algorithms and/or scripts for RFI mitigation_
 	git clone https://github.com/TRASAL/RFIm
 	```
 </details>
-<details><summary><b><a href="https://github.com/v-morello/iqrm">IQRM</a></b> (🥉6 ·  ⭐ 5 · 🐣) - A minimal implementation of the IQRM interference flagging algorithm for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/v-morello/iqrm">IQRM</a></b> (🥉5 ·  ⭐ 6 · 🐣) - A minimal implementation of the IQRM interference flagging algorithm for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/v-morello/iqrm) (⏱️ 31.08.2021):
 
