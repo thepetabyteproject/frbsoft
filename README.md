@@ -72,19 +72,19 @@ _These software read and write data in common or custom formats_
 	```
 	git clone https://github.com/UCBerkeleySETI/blimpy
 	```
-- [PyPi](https://pypi.org/project/blimpy) (📥 460 / month · 📦 6 · ⏱️ 21.06.2022):
+- [PyPi](https://pypi.org/project/blimpy) (📥 500 / month · 📦 6 · ⏱️ 21.06.2022):
 	```
 	pip install blimpy
 	```
 </details>
 <details><summary><b><a href="https://thepetabyteproject.github.io/your/">your</a></b> (🥈16 ·  ⭐ 22 · 💤) - Your Unified Reader. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/thepetabyteproject/your) (👨‍💻 12 · 🔀 18 · 📦 25 · ⏱️ 22.01.2022):
+- [GitHub](https://github.com/thepetabyteproject/your) (👨‍💻 12 · 🔀 18 · 📦 26 · ⏱️ 22.01.2022):
 
 	```
 	git clone https://github.com/thepetabyteproject/your
 	```
-- [PyPi](https://pypi.org/project/your) (📥 200 / month · ⏱️ 22.01.2022):
+- [PyPi](https://pypi.org/project/your) (📥 220 / month · ⏱️ 22.01.2022):
 	```
 	pip install your
 	```
@@ -129,7 +129,7 @@ _Single Pulse Search software_
 	git clone https://github.com/AstroAccelerateOrg/astro-accelerate
 	```
 </details>
-<details><summary><b><a href="https://realfastvla.github.io/rfpipe/">rfpipe</a></b> (🥈10 ·  ⭐ 8) - Fast radio interferometric transient search pipeline. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://realfastvla.github.io/rfpipe/">rfpipe</a></b> (🥈10 ·  ⭐ 8 · 💤) - Fast radio interferometric transient search pipeline. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/realfastvla/rfpipe) (👨‍💻 11 · 🔀 5 · 📦 1 · 📋 54 - 33% open · ⏱️ 28.03.2022):
 
@@ -185,7 +185,7 @@ _Single Pulse Search software_
 
 _Single Pulse Injection into data_
 
-<details><summary><b><a href="https://github.com/kmsmith137/simpulse">simpulse</a></b> (🥇6 ·  ⭐ 8) - C++/python library for simulating FRB's and pulsars. <code>Unlicensed</code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/kmsmith137/simpulse">simpulse</a></b> (🥇6 ·  ⭐ 8 · 💤) - C++/python library for simulating FRB's and pulsars. <code>Unlicensed</code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/kmsmith137/simpulse) (👨‍💻 6 · 🔀 6 · ⏱️ 03.03.2022):
 
@@ -227,7 +227,7 @@ _ML Classifiers_
 
 <details><summary><b><a href="https://github.com/devanshkv/fetch">fetch</a></b> (🥇13 ·  ⭐ 23) - A set of deep learning models for FRB/RFI binary classification. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code> <code><img src="https://upload.wikimedia.org/wikipedia/en/b/b9/Nvidia_CUDA_Logo.jpg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/devanshkv/fetch) (👨‍💻 5 · 🔀 26 · 📦 21 · 📋 21 - 4% open · ⏱️ 17.09.2022):
+- [GitHub](https://github.com/devanshkv/fetch) (👨‍💻 5 · 🔀 26 · 📦 21 · 📋 22 - 9% open · ⏱️ 17.09.2022):
 
 	```
 	git clone https://github.com/devanshkv/fetch
@@ -280,7 +280,7 @@ _FRB catalogues or tools to query FRB catalogues_
 	```
 	git clone https://github.com/mattpitkin/psrqpy
 	```
-- [PyPi](https://pypi.org/project/psrqpy) (📥 910 / month · ⏱️ 16.05.2022):
+- [PyPi](https://pypi.org/project/psrqpy) (📥 920 / month · ⏱️ 16.05.2022):
 	```
 	pip install psrqpy
 	```
@@ -295,7 +295,7 @@ _FRB catalogues or tools to query FRB catalogues_
 </details>
 <details><summary><b><a href="https://www.herta-experiment.org/frbstats/">FRBSTATS</a></b> (🥉6 ·  ⭐ 15) - Repository for the FRBSTATS web platform. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/HeRTA/FRBSTATS) (👨‍💻 3 · 🔀 1 · 📋 40 - 25% open · ⏱️ 29.09.2022):
+- [GitHub](https://github.com/HeRTA/FRBSTATS) (👨‍💻 3 · 🔀 1 · 📋 40 - 25% open · ⏱️ 06.10.2022):
 
 	```
 	git clone https://github.com/HeRTA/FRBSTATS
@@ -348,7 +348,7 @@ _Analysis of bursts_
 	```
 	git clone https://github.com/abatten/fruitbat
 	```
-- [PyPi](https://pypi.org/project/fruitbat) (📥 45 / month · ⏱️ 06.07.2021):
+- [PyPi](https://pypi.org/project/fruitbat) (📥 88 / month · ⏱️ 06.07.2021):
 	```
 	pip install fruitbat
 	```
@@ -392,7 +392,7 @@ _Analysis of bursts_
 	```
 	git clone https://github.com/thepetabyteproject/burstfit
 	```
-- [PyPi](https://pypi.org/project/burstfit) (📥 15 / month · ⏱️ 29.03.2021):
+- [PyPi](https://pypi.org/project/burstfit) (📥 17 / month · ⏱️ 29.03.2021):
 	```
 	pip install burstfit
 	```
@@ -403,14 +403,6 @@ _Analysis of bursts_
 
 	```
 	git clone https://github.com/KshitijAggarwal/frbpa
-	```
-</details>
-<details><summary><b><a href="https://github.com/FRBs/astropath">astropath</a></b> (🥉6 ·  ⭐ 7) -  <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/FRBs/astropath) (👨‍💻 4 · ⏱️ 18.03.2022):
-
-	```
-	git clone https://github.com/FRBs/astropath
 	```
 </details>
 <details><summary><b><a href="https://github.com/zpleunis/dfdt">dfdt</a></b> (🥉6 ·  ⭐ 6) - Linear drift rate measurements for fast radio bursts. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
@@ -427,6 +419,14 @@ _Analysis of bursts_
 
 	```
 	git clone https://github.com/thepetabyteproject/FRB121102
+	```
+</details>
+<details><summary><b><a href="https://github.com/FRBs/astropath">astropath</a></b> (🥉5 ·  ⭐ 7 · 💤) -  <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/FRBs/astropath) (👨‍💻 4 · ⏱️ 18.03.2022):
+
+	```
+	git clone https://github.com/FRBs/astropath
 	```
 </details>
 <details><summary><b><a href="https://github.com/NihanPol/DM_IGM">DM_IGM</a></b> (🥉4 ·  ⭐ 2 · 💀) -  <code>Unlicensed</code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
@@ -528,7 +528,7 @@ _Algorithms and/or scripts for RFI mitigation_
 
 _Docker and Signularity Containers_
 
-<details><summary><b><a href="https://github.com/josephwkania/radio_transients">radio_transients</a></b> (🥇7 ·  ⭐ 5) - Singularity containers with common radio transient.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code> <code><img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/c/c.svg" style="display:inline;" width="13" height="13"></code> <code><img src="https://upload.wikimedia.org/wikipedia/en/b/b9/Nvidia_CUDA_Logo.jpg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/josephwkania/radio_transients">radio_transients</a></b> (🥇6 ·  ⭐ 5 · 📉) - Singularity containers with common radio transient.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code> <code><img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/c/c.svg" style="display:inline;" width="13" height="13"></code> <code><img src="https://upload.wikimedia.org/wikipedia/en/b/b9/Nvidia_CUDA_Logo.jpg" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/josephwkania/radio_transients) (🔀 1 · ⏱️ 10.07.2022):
 
