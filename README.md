@@ -72,7 +72,7 @@ _These software read and write data in common or custom formats_
 	```
 	git clone https://github.com/UCBerkeleySETI/blimpy
 	```
-- [PyPi](https://pypi.org/project/blimpy) (📥 400 / month · 📦 6 · ⏱️ 21.06.2022):
+- [PyPi](https://pypi.org/project/blimpy) (📥 260 / month · 📦 6 · ⏱️ 21.06.2022):
 	```
 	pip install blimpy
 	```
@@ -84,14 +84,14 @@ _These software read and write data in common or custom formats_
 	```
 	git clone https://github.com/thepetabyteproject/your
 	```
-- [PyPi](https://pypi.org/project/your) (📥 200 / month · ⏱️ 22.01.2022):
+- [PyPi](https://pypi.org/project/your) (📥 170 / month · ⏱️ 22.01.2022):
 	```
 	pip install your
 	```
 </details>
 <details><summary><b><a href="https://sigpyproc3.readthedocs.io">sigpyproc3</a></b> (🥉9 ·  ⭐ 9 · 💤) - Python3 version of Ewan Barr's sigpyproc library. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/FRBs/sigpyproc3) (👨‍💻 9 · 🔀 5 · 📋 12 - 41% open · ⏱️ 26.02.2022):
+- [GitHub](https://github.com/FRBs/sigpyproc3) (👨‍💻 9 · 🔀 5 · 📋 13 - 46% open · ⏱️ 26.02.2022):
 
 	```
 	git clone https://github.com/FRBs/sigpyproc3
@@ -99,7 +99,7 @@ _These software read and write data in common or custom formats_
 </details>
 <details><summary><b><a href="https://trasal.github.io/psrdada-python/index.html">psrdada-python</a></b> (🥉9 ·  ⭐ 5 · 💀) - Python bindings to the PSRDada ringbuffer implementation. <code><a href="http://www.apache.org/licenses/LICENSE-2.0">Custom</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/TRASAL/psrdada-python) (👨‍💻 4 · 🔀 4 · ⏱️ 17.11.2020):
+- [GitHub](https://github.com/TRASAL/psrdada-python) (👨‍💻 4 · 🔀 5 · ⏱️ 17.11.2020):
 
 	```
 	git clone https://github.com/TRASAL/psrdada-python
@@ -113,9 +113,9 @@ _These software read and write data in common or custom formats_
 
 _Single Pulse Search software_
 
-<details><summary><b><a href="https://www.cv.nrao.edu/~sransom/presto/">presto</a></b> (🥇18 ·  ⭐ 200) - Open source pulsar search and analysis toolkit. <code><a href="http://bit.ly/2KucAZR">GPL-2.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code> <code><img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/c/c.svg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://www.cv.nrao.edu/~sransom/presto/">presto</a></b> (🥇17 ·  ⭐ 200 · 📉) - Open source pulsar search and analysis toolkit. <code><a href="http://bit.ly/2KucAZR">GPL-2.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code> <code><img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/c/c.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/scottransom/presto) (👨‍💻 41 · 🔀 160 · 📦 25 · 📋 71 - 33% open · ⏱️ 08.08.2022):
+- [GitHub](https://github.com/scottransom/presto) (👨‍💻 41 · 🔀 160 · 📦 25 · 📋 74 - 36% open · ⏱️ 08.08.2022):
 
 	```
 	git clone https://github.com/scottransom/presto
@@ -129,15 +129,15 @@ _Single Pulse Search software_
 	git clone https://github.com/AstroAccelerateOrg/astro-accelerate
 	```
 </details>
-<details><summary><b><a href="https://realfastvla.github.io/rfpipe/">rfpipe</a></b> (🥈10 ·  ⭐ 8 · 💤) - Fast radio interferometric transient search pipeline. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://realfastvla.github.io/rfpipe/">rfpipe</a></b> (🥈11 ·  ⭐ 9 · 📈) - Fast radio interferometric transient search pipeline. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/realfastvla/rfpipe) (👨‍💻 11 · 🔀 5 · 📦 1 · 📋 54 - 33% open · ⏱️ 28.03.2022):
+- [GitHub](https://github.com/realfastvla/rfpipe) (👨‍💻 11 · 🔀 5 · 📦 1 · 📋 54 - 33% open · ⏱️ 31.10.2022):
 
 	```
 	git clone https://github.com/realfastvla/rfpipe
 	```
 </details>
-<details><summary><b><a href="http://alert.eu/">Amber</a></b> (🥈10 ·  ⭐ 3 · 💀) - A many-core transient searching pipeline, designed to search in.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="http://alert.eu/">Amber</a></b> (🥉10 ·  ⭐ 3 · 💀) - A many-core transient searching pipeline, designed to search in.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/TRASAL/AMBER) (👨‍💻 4 · 🔀 1 · ⏱️ 17.11.2020):
 
@@ -280,7 +280,7 @@ _FRB catalogues or tools to query FRB catalogues_
 	```
 	git clone https://github.com/mattpitkin/psrqpy
 	```
-- [PyPi](https://pypi.org/project/psrqpy) (📥 480 / month · ⏱️ 16.05.2022):
+- [PyPi](https://pypi.org/project/psrqpy) (📥 320 / month · ⏱️ 16.05.2022):
 	```
 	pip install psrqpy
 	```
@@ -295,7 +295,7 @@ _FRB catalogues or tools to query FRB catalogues_
 </details>
 <details><summary><b><a href="https://www.herta-experiment.org/frbstats/">FRBSTATS</a></b> (🥉6 ·  ⭐ 15) - Repository for the FRBSTATS web platform. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/HeRTA/FRBSTATS) (👨‍💻 3 · 🔀 1 · 📋 40 - 25% open · ⏱️ 23.10.2022):
+- [GitHub](https://github.com/HeRTA/FRBSTATS) (👨‍💻 3 · 🔀 1 · 📋 40 - 25% open · ⏱️ 31.10.2022):
 
 	```
 	git clone https://github.com/HeRTA/FRBSTATS
@@ -343,12 +343,12 @@ _Analysis of bursts_
 </details>
 <details><summary><b><a href="https://fruitbat.readthedocs.io/">fruitbat</a></b> (🥇12 ·  ⭐ 13 · 💤) - A fast radio burst (FRB) redshift estimation package written in.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/abatten/fruitbat) (👨‍💻 2 · 🔀 4 · 📦 3 · 📋 13 - 30% open · ⏱️ 14.12.2021):
+- [GitHub](https://github.com/abatten/fruitbat) (👨‍💻 2 · 🔀 5 · 📦 3 · 📋 13 - 30% open · ⏱️ 14.12.2021):
 
 	```
 	git clone https://github.com/abatten/fruitbat
 	```
-- [PyPi](https://pypi.org/project/fruitbat) (📥 99 / month · ⏱️ 06.07.2021):
+- [PyPi](https://pypi.org/project/fruitbat) (📥 98 / month · ⏱️ 06.07.2021):
 	```
 	pip install fruitbat
 	```
@@ -377,24 +377,24 @@ _Analysis of bursts_
 	git clone https://github.com/danielemichilli/DM_phase
 	```
 </details>
-<details><summary><b><a href="https://github.com/thepetabyteproject/burstfit/">burstfit</a></b> (🥈7 ·  ⭐ 9 · 💀) - Spectro-temporal modeling of FRBs. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/thepetabyteproject/burstfit) (👨‍💻 2 · 🔀 4 · 📋 6 - 50% open · ⏱️ 14.07.2021):
-
-	```
-	git clone https://github.com/thepetabyteproject/burstfit
-	```
-- [PyPi](https://pypi.org/project/burstfit) (📥 24 / month · ⏱️ 29.03.2021):
-	```
-	pip install burstfit
-	```
-</details>
 <details><summary><b><a href="https://github.com/KshitijAggarwal/casp">casp</a></b> (🥈7 · 💀) - Calculating Association Probability of FRBs. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/KshitijAggarwal/casp) (⏱️ 12.04.2021):
 
 	```
 	git clone https://github.com/KshitijAggarwal/casp
+	```
+</details>
+<details><summary><b><a href="https://github.com/thepetabyteproject/burstfit/">burstfit</a></b> (🥉6 ·  ⭐ 9 · 💀) - Spectro-temporal modeling of FRBs. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/thepetabyteproject/burstfit) (👨‍💻 2 · 🔀 4 · 📋 6 - 50% open · ⏱️ 14.07.2021):
+
+	```
+	git clone https://github.com/thepetabyteproject/burstfit
+	```
+- [PyPi](https://pypi.org/project/burstfit) (📥 20 / month · ⏱️ 29.03.2021):
+	```
+	pip install burstfit
 	```
 </details>
 <details><summary><b><a href="https://github.com/KshitijAggarwal/frbpa">frbpa</a></b> (🥉6 ·  ⭐ 7 · 💀) - FRB Periodicity Analysis. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
