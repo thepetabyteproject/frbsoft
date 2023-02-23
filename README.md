@@ -72,19 +72,19 @@ _These software read and write data in common or custom formats_
 	```
 	git clone https://github.com/UCBerkeleySETI/blimpy
 	```
-- [PyPi](https://pypi.org/project/blimpy) (📥 190 / month · 📦 6 · ⏱️ 16.11.2022):
+- [PyPi](https://pypi.org/project/blimpy) (📥 270 / month · 📦 6 · ⏱️ 16.11.2022):
 	```
 	pip install blimpy
 	```
 </details>
 <details><summary><b><a href="https://thepetabyteproject.github.io/your/">your</a></b> (🥈14 ·  ⭐ 29) - Your Unified Reader. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/thepetabyteproject/your) (👨‍💻 15 · 🔀 21 · 📦 31 · 📋 53 - 1% open · ⏱️ 12.02.2023):
+- [GitHub](https://github.com/thepetabyteproject/your) (👨‍💻 15 · 🔀 22 · 📦 31 · 📋 53 - 1% open · ⏱️ 12.02.2023):
 
 	```
 	git clone https://github.com/thepetabyteproject/your
 	```
-- [PyPi](https://pypi.org/project/your) (📥 98 / month · ⏱️ 22.01.2022):
+- [PyPi](https://pypi.org/project/your) (📥 110 / month · ⏱️ 22.01.2022):
 	```
 	pip install your
 	```
@@ -115,7 +115,7 @@ _Single Pulse Search software_
 
 <details><summary><b><a href="https://www.cv.nrao.edu/~sransom/presto/">presto</a></b> (🥇18 ·  ⭐ 210) - Open source pulsar search and analysis toolkit. <code><a href="http://bit.ly/2KucAZR">GPL-2.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code> <code><img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/c/c.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/scottransom/presto) (👨‍💻 41 · 🔀 160 · 📦 28 · 📋 76 - 35% open · ⏱️ 13.02.2023):
+- [GitHub](https://github.com/scottransom/presto) (👨‍💻 41 · 🔀 160 · 📦 29 · 📋 76 - 35% open · ⏱️ 13.02.2023):
 
 	```
 	git clone https://github.com/scottransom/presto
@@ -153,7 +153,7 @@ _Single Pulse Search software_
 	git clone https://github.com/kiyo-masui/burst_search
 	```
 </details>
-<details><summary><b><a href="https://github.com/gajjarv/PulsarSearch">SPANDAK</a></b> (🥉4 ·  ⭐ 8) -  <code>Unlicensed</code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/gajjarv/PulsarSearch">SPANDAK</a></b> (🥉5 ·  ⭐ 8 · 📈) -  <code>Unlicensed</code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/gajjarv/PulsarSearch) (👨‍💻 2 · 🔀 5 · ⏱️ 20.09.2022):
 
@@ -280,7 +280,7 @@ _FRB catalogues or tools to query FRB catalogues_
 	```
 	git clone https://github.com/mattpitkin/psrqpy
 	```
-- [PyPi](https://pypi.org/project/psrqpy) (📥 430 / month · ⏱️ 16.01.2023):
+- [PyPi](https://pypi.org/project/psrqpy) (📥 330 / month · ⏱️ 16.01.2023):
 	```
 	pip install psrqpy
 	```
@@ -325,37 +325,37 @@ _FRB catalogues or tools to query FRB catalogues_
 
 _Analysis of bursts_
 
-<details><summary><b><a href="https://github.com/CIRADA-Tools/RM-Tools/wiki">RM-Tools</a></b> (🥇13 ·  ⭐ 27) - RM-synthesis, RM-clean and QU-fitting on polarised radio spectra. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://pygedm.readthedocs.io">pygedm</a></b> (🥇13 ·  ⭐ 37 · 📈) - Python bindings for YMW16, NE2001 and YT2020 electron.. <code>Unlicensed</code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/CIRADA-Tools/RM-Tools) (👨‍💻 9 · 🔀 14 · 📋 53 - 60% open · ⏱️ 15.01.2023):
-
-	```
-	git clone https://github.com/CIRADA-Tools/RM-Tools
-	```
-</details>
-<details><summary><b><a href="https://pygedm.readthedocs.io">pygedm</a></b> (🥇12 ·  ⭐ 37) - Python bindings for YMW16, NE2001 and YT2020 electron.. <code>Unlicensed</code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/FRBs/pygedm) (👨‍💻 9 · 🔀 11 · 📦 8 · 📋 17 - 29% open · ⏱️ 26.12.2022):
+- [GitHub](https://github.com/FRBs/pygedm) (👨‍💻 9 · 🔀 12 · 📦 10 · 📋 17 - 29% open · ⏱️ 26.12.2022):
 
 	```
 	git clone https://github.com/FRBs/pygedm
 	```
 </details>
-<details><summary><b><a href="https://fruitbat.readthedocs.io/">fruitbat</a></b> (🥇12 ·  ⭐ 14 · 💀) - A fast radio burst (FRB) redshift estimation package written in.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/CIRADA-Tools/RM-Tools/wiki">RM-Tools</a></b> (🥇13 ·  ⭐ 28) - RM-synthesis, RM-clean and QU-fitting on polarised radio spectra. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/CIRADA-Tools/RM-Tools) (👨‍💻 9 · 🔀 15 · 📋 53 - 60% open · ⏱️ 15.01.2023):
+
+	```
+	git clone https://github.com/CIRADA-Tools/RM-Tools
+	```
+</details>
+<details><summary><b><a href="https://fruitbat.readthedocs.io/">fruitbat</a></b> (🥈12 ·  ⭐ 14 · 💀) - A fast radio burst (FRB) redshift estimation package written in.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/abatten/fruitbat) (👨‍💻 2 · 🔀 5 · 📦 4 · 📋 13 - 30% open · ⏱️ 14.12.2021):
 
 	```
 	git clone https://github.com/abatten/fruitbat
 	```
-- [PyPi](https://pypi.org/project/fruitbat) (📥 56 / month · ⏱️ 06.07.2021):
+- [PyPi](https://pypi.org/project/fruitbat) (📥 50 / month · ⏱️ 06.07.2021):
 	```
 	pip install fruitbat
 	```
 </details>
 <details><summary><b><a href="https://github.com/FRBs/FRB">FRB</a></b> (🥈10 ·  ⭐ 45) - Python code related to DM calculations, estimations, and analysis. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/FRBs/FRB) (👨‍💻 19 · 🔀 19 · 📋 10 - 40% open · ⏱️ 06.12.2022):
+- [GitHub](https://github.com/FRBs/FRB) (👨‍💻 19 · 🔀 20 · 📋 10 - 40% open · ⏱️ 19.02.2023):
 
 	```
 	git clone https://github.com/FRBs/FRB
@@ -392,7 +392,7 @@ _Analysis of bursts_
 	```
 	git clone https://github.com/thepetabyteproject/burstfit
 	```
-- [PyPi](https://pypi.org/project/burstfit) (📥 9 / month · ⏱️ 29.03.2021):
+- [PyPi](https://pypi.org/project/burstfit) (📥 12 / month · ⏱️ 29.03.2021):
 	```
 	pip install burstfit
 	```
@@ -511,7 +511,7 @@ _Algorithms and/or scripts for RFI mitigation_
 </details>
 <details><summary><b><a href="https://gitlab.com/kmrajwade/iqrm_apollo">iqrm_apollo</a></b> (🥉2 ·  ⭐ 1 · 💀) - A standalone code to clean narrow-band RFI using.. <code>Unlicensed</code></summary>
 
-- [GitLab](https://gitlab.com/kmrajwade/iqrm_apollo) (🔀 1 · 📋 3 - 33% open · ⏱️ 21.04.2020):
+- [GitLab](https://gitlab.com/kmrajwade/iqrm_apollo) (🔀 1 · ⏱️ 21.04.2020):
 
 	```
 	git clone https://gitlab.com/kmrajwade/iqrm_apollo
