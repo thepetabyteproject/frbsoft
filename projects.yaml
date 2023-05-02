@@ -360,10 +360,11 @@ projects:
     show: True
     category: "analysis"
     labels: ["python", "jupyter"]
-  - name: "subdriftlaw"
-    github_id: "mef51/subdriftlaw"
+  - name: "frbgui"
+    github_id: "mef51/frbgui"
     show: True
     category: "analysis"
     labels: ["python", "jupyter"]
-    homepage: "https://github.com/mef51/subdriftlaw"
+    homepage: "https://github.com/mef51/frbgui"
+    pypi_id: "frbgui"
   
