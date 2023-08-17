@@ -67,12 +67,12 @@ _These software read and write data in common or custom formats_
 
 <details><summary><b><a href="https://blimpy.readthedocs.io/en/latest/">blimpy</a></b> (🥇19 ·  ⭐ 44 · 💤) - Breakthrough Listen I/O Methods for Python. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/UCBerkeleySETI/blimpy) (👨‍💻 26 · 🔀 37 · 📦 35 · 📋 140 - 7% open · ⏱️ 18.11.2022):
+- [GitHub](https://github.com/UCBerkeleySETI/blimpy) (👨‍💻 26 · 🔀 37 · 📦 36 · 📋 140 - 7% open · ⏱️ 18.11.2022):
 
 	```
 	git clone https://github.com/UCBerkeleySETI/blimpy
 	```
-- [PyPi](https://pypi.org/project/blimpy) (📥 420 / month · 📦 6 · ⏱️ 16.11.2022):
+- [PyPi](https://pypi.org/project/blimpy) (📥 280 / month · 📦 6 · ⏱️ 16.11.2022):
 	```
 	pip install blimpy
 	```
@@ -84,7 +84,7 @@ _These software read and write data in common or custom formats_
 	```
 	git clone https://github.com/thepetabyteproject/your
 	```
-- [PyPi](https://pypi.org/project/your) (📥 300 / month · ⏱️ 22.01.2022):
+- [PyPi](https://pypi.org/project/your) (📥 290 / month · ⏱️ 22.01.2022):
 	```
 	pip install your
 	```
@@ -99,7 +99,7 @@ _These software read and write data in common or custom formats_
 </details>
 <details><summary><b><a href="https://trasal.github.io/psrdada-python/index.html">psrdada-python</a></b> (🥉9 ·  ⭐ 8 · 💀) - Python bindings to the PSRDada ringbuffer implementation. <code><a href="http://www.apache.org/licenses/LICENSE-2.0">Custom</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/TRASAL/psrdada-python) (👨‍💻 4 · 🔀 6 · 📋 3 - 33% open · ⏱️ 17.11.2020):
+- [GitHub](https://github.com/TRASAL/psrdada-python) (👨‍💻 4 · 🔀 7 · 📋 3 - 33% open · ⏱️ 17.11.2020):
 
 	```
 	git clone https://github.com/TRASAL/psrdada-python
@@ -113,7 +113,7 @@ _These software read and write data in common or custom formats_
 
 _Single Pulse Search software_
 
-<details><summary><b><a href="https://www.cv.nrao.edu/~sransom/presto/">presto</a></b> (🥇18 ·  ⭐ 220 · 📈) - Open source pulsar search and analysis toolkit. <code><a href="http://bit.ly/2KucAZR">GPL-2.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code> <code><img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/c/c.svg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://www.cv.nrao.edu/~sransom/presto/">presto</a></b> (🥇18 ·  ⭐ 220) - Open source pulsar search and analysis toolkit. <code><a href="http://bit.ly/2KucAZR">GPL-2.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code> <code><img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/c/c.svg" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/scottransom/presto) (👨‍💻 41 · 🔀 160 · 📦 31 · 📋 82 - 37% open · ⏱️ 10.08.2023):
 
@@ -227,7 +227,7 @@ _ML Classifiers_
 
 <details><summary><b><a href="https://github.com/devanshkv/fetch">fetch</a></b> (🥇12 ·  ⭐ 32) - A set of deep learning models for FRB/RFI binary classification. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code> <code><img src="https://upload.wikimedia.org/wikipedia/en/b/b9/Nvidia_CUDA_Logo.jpg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/devanshkv/fetch) (👨‍💻 8 · 🔀 30 · 📦 38 · 📋 24 - 8% open · ⏱️ 14.02.2023):
+- [GitHub](https://github.com/devanshkv/fetch) (👨‍💻 9 · 🔀 30 · 📦 38 · 📋 24 - 8% open · ⏱️ 14.02.2023):
 
 	```
 	git clone https://github.com/devanshkv/fetch
@@ -280,7 +280,7 @@ _FRB catalogues or tools to query FRB catalogues_
 	```
 	git clone https://github.com/mattpitkin/psrqpy
 	```
-- [PyPi](https://pypi.org/project/psrqpy) (📥 450 / month · ⏱️ 11.10.2021):
+- [PyPi](https://pypi.org/project/psrqpy) (📥 340 / month · ⏱️ 11.10.2021):
 	```
 	pip install psrqpy
 	```
@@ -325,7 +325,7 @@ _FRB catalogues or tools to query FRB catalogues_
 
 _Analysis of bursts_
 
-<details><summary><b><a href="https://github.com/CIRADA-Tools/RM-Tools/wiki">RM-Tools</a></b> (🥇14 ·  ⭐ 34 · 📈) - RM-synthesis, RM-clean and QU-fitting on polarised radio spectra. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/CIRADA-Tools/RM-Tools/wiki">RM-Tools</a></b> (🥇14 ·  ⭐ 34) - RM-synthesis, RM-clean and QU-fitting on polarised radio spectra. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/CIRADA-Tools/RM-Tools) (👨‍💻 9 · 🔀 17 · 📦 1 · 📋 61 - 49% open · ⏱️ 08.08.2023):
 
@@ -356,7 +356,7 @@ _Analysis of bursts_
 	```
 	git clone https://github.com/abatten/fruitbat
 	```
-- [PyPi](https://pypi.org/project/fruitbat) (📥 84 / month · ⏱️ 06.07.2021):
+- [PyPi](https://pypi.org/project/fruitbat) (📥 67 / month · ⏱️ 06.07.2021):
 	```
 	pip install fruitbat
 	```
@@ -368,7 +368,7 @@ _Analysis of bursts_
 	```
 	git clone https://github.com/mef51/frbgui
 	```
-- [PyPi](https://pypi.org/project/frbgui) (📥 49 / month · ⏱️ 30.09.2022):
+- [PyPi](https://pypi.org/project/frbgui) (📥 41 / month · ⏱️ 30.09.2022):
 	```
 	pip install frbgui
 	```
@@ -388,7 +388,7 @@ _Analysis of bursts_
 	```
 	git clone https://github.com/thepetabyteproject/burstfit
 	```
-- [PyPi](https://pypi.org/project/burstfit) (📥 29 / month · ⏱️ 29.03.2021):
+- [PyPi](https://pypi.org/project/burstfit) (📥 26 / month · ⏱️ 29.03.2021):
 	```
 	pip install burstfit
 	```
@@ -425,7 +425,7 @@ _Analysis of bursts_
 	git clone https://github.com/KshitijAggarwal/frbpa
 	```
 </details>
-<details><summary><b><a href="https://thepetabyteproject.github.io/FRB121102/">TPP-FRB121102</a></b> (🥉5 ·  ⭐ 9 · 💀) - Results and analysis scripts for FRB121102 burst.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code> <code><img src="https://git.io/JLy1E" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://thepetabyteproject.github.io/FRB121102/">TPP-FRB121102</a></b> (🥉5 ·  ⭐ 10 · 💀) - Results and analysis scripts for FRB121102 burst.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code> <code><img src="https://git.io/JLy1E" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/thepetabyteproject/FRB121102) (👨‍💻 4 · ⏱️ 16.08.2021):
 
