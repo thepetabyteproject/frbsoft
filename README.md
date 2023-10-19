@@ -72,19 +72,19 @@ _These software read and write data in common or custom formats_
 	```
 	git clone https://github.com/UCBerkeleySETI/blimpy
 	```
-- [PyPi](https://pypi.org/project/blimpy) (📥 230 / month · 📦 6 · ⏱️ 16.11.2022):
+- [PyPi](https://pypi.org/project/blimpy) (📥 470 / month · 📦 6 · ⏱️ 16.11.2022):
 	```
 	pip install blimpy
 	```
 </details>
 <details><summary><b><a href="https://thepetabyteproject.github.io/your/">your</a></b> (🥈15 ·  ⭐ 31) - Your Unified Reader. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/thepetabyteproject/your) (👨‍💻 16 · 🔀 24 · 📦 40 · 📋 62 - 4% open · ⏱️ 05.09.2023):
+- [GitHub](https://github.com/thepetabyteproject/your) (👨‍💻 16 · 🔀 24 · 📦 41 · 📋 62 - 4% open · ⏱️ 05.09.2023):
 
 	```
 	git clone https://github.com/thepetabyteproject/your
 	```
-- [PyPi](https://pypi.org/project/your) (📥 210 / month · ⏱️ 22.01.2022):
+- [PyPi](https://pypi.org/project/your) (📥 190 / month · ⏱️ 22.01.2022):
 	```
 	pip install your
 	```
@@ -273,14 +273,14 @@ _Population synthesis and analysis of FRBs_
 
 _FRB catalogues or tools to query FRB catalogues_
 
-<details><summary><b><a href="https://psrqpy.readthedocs.io">psrqpy</a></b> (🥇15 ·  ⭐ 39 · 📈) - A python module to query the ATNF pulsar catalogue. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://psrqpy.readthedocs.io">psrqpy</a></b> (🥇15 ·  ⭐ 39) - A python module to query the ATNF pulsar catalogue. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/mattpitkin/psrqpy) (👨‍💻 10 · 🔀 24 · 📋 54 - 5% open · ⏱️ 07.10.2023):
 
 	```
 	git clone https://github.com/mattpitkin/psrqpy
 	```
-- [PyPi](https://pypi.org/project/psrqpy) (📥 220 / month · ⏱️ 11.10.2021):
+- [PyPi](https://pypi.org/project/psrqpy) (📥 230 / month · ⏱️ 11.10.2021):
 	```
 	pip install psrqpy
 	```
@@ -356,7 +356,7 @@ _Analysis of bursts_
 	```
 	git clone https://github.com/abatten/fruitbat
 	```
-- [PyPi](https://pypi.org/project/fruitbat) (📥 44 / month · ⏱️ 06.07.2021):
+- [PyPi](https://pypi.org/project/fruitbat) (📥 40 / month · ⏱️ 06.07.2021):
 	```
 	pip install fruitbat
 	```
@@ -404,7 +404,7 @@ _Analysis of bursts_
 	```
 	git clone https://github.com/thepetabyteproject/burstfit
 	```
-- [PyPi](https://pypi.org/project/burstfit) (📥 18 / month · ⏱️ 29.03.2021):
+- [PyPi](https://pypi.org/project/burstfit) (📥 16 / month · ⏱️ 29.03.2021):
 	```
 	pip install burstfit
 	```
@@ -497,20 +497,20 @@ _Algorithms and/or scripts for RFI mitigation_
 	git clone https://github.com/ymaan4/RFIClean
 	```
 </details>
+<details><summary><b><a href="https://github.com/v-morello/iqrm">IQRM</a></b> (🥈8 ·  ⭐ 7 · 💀) - A minimal implementation of the IQRM interference flagging algorithm for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/v-morello/iqrm) (🔀 3 · ⏱️ 31.08.2021):
+
+	```
+	git clone https://github.com/v-morello/iqrm
+	```
+</details>
 <details><summary><b><a href="https://github.com/TRASAL/RFIm">RFIm</a></b> (🥈8 ·  ⭐ 4 · 💀) - Radio Frequency Interference (RFI) mitigation algorithms. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/TRASAL/RFIm) (👨‍💻 6 · 🔀 2 · 📋 6 - 50% open · ⏱️ 11.01.2022):
 
 	```
 	git clone https://github.com/TRASAL/RFIm
-	```
-</details>
-<details><summary><b><a href="https://github.com/v-morello/iqrm">IQRM</a></b> (🥉7 ·  ⭐ 6 · 💀) - A minimal implementation of the IQRM interference flagging algorithm for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/v-morello/iqrm) (🔀 2 · ⏱️ 31.08.2021):
-
-	```
-	git clone https://github.com/v-morello/iqrm
 	```
 </details>
 <details><summary><b><a href="https://gitlab.com/kmrajwade/iqrm_apollo">iqrm_apollo</a></b> (🥉2 ·  ⭐ 1 · 💀) - A standalone code to clean narrow-band RFI using.. <code>Unlicensed</code></summary>
