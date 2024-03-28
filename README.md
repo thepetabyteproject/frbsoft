@@ -72,7 +72,7 @@ _These software read and write data in common or custom formats_
 	```
 	git clone https://github.com/UCBerkeleySETI/blimpy
 	```
-- [PyPi](https://pypi.org/project/blimpy) (📥 470 / month · 📦 6 · ⏱️ 16.11.2022):
+- [PyPi](https://pypi.org/project/blimpy) (📥 360 / month · 📦 6 · ⏱️ 16.11.2022):
 	```
 	pip install blimpy
 	```
@@ -84,12 +84,12 @@ _These software read and write data in common or custom formats_
 	```
 	git clone https://github.com/thepetabyteproject/your
 	```
-- [PyPi](https://pypi.org/project/your) (📥 420 / month · ⏱️ 22.01.2022):
+- [PyPi](https://pypi.org/project/your) (📥 440 / month · ⏱️ 22.01.2022):
 	```
 	pip install your
 	```
 </details>
-<details><summary><b><a href="https://sigpyproc3.readthedocs.io">sigpyproc3</a></b> (🥉11 ·  ⭐ 13) - Python3 version of Ewan Barr's sigpyproc library. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://sigpyproc3.readthedocs.io">sigpyproc3</a></b> (🥉11 ·  ⭐ 14) - Python3 version of Ewan Barr's sigpyproc library. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/FRBs/sigpyproc3) (👨‍💻 9 · 🔀 7 · 📋 16 - 31% open · ⏱️ 20.02.2024):
 
@@ -275,12 +275,12 @@ _FRB catalogues or tools to query FRB catalogues_
 
 <details><summary><b><a href="https://psrqpy.readthedocs.io">psrqpy</a></b> (🥇15 ·  ⭐ 39) - A python module to query the ATNF pulsar catalogue. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/mattpitkin/psrqpy) (👨‍💻 10 · 🔀 24 · 📋 58 - 5% open · ⏱️ 23.02.2024):
+- [GitHub](https://github.com/mattpitkin/psrqpy) (👨‍💻 10 · 🔀 24 · 📋 58 - 5% open · ⏱️ 25.03.2024):
 
 	```
 	git clone https://github.com/mattpitkin/psrqpy
 	```
-- [PyPi](https://pypi.org/project/psrqpy) (📥 740 / month · ⏱️ 16.02.2024):
+- [PyPi](https://pypi.org/project/psrqpy) (📥 780 / month · ⏱️ 16.02.2024):
 	```
 	pip install psrqpy
 	```
@@ -325,9 +325,9 @@ _FRB catalogues or tools to query FRB catalogues_
 
 _Analysis of bursts_
 
-<details><summary><b><a href="https://github.com/CIRADA-Tools/RM-Tools/wiki">RM-Tools</a></b> (🥇14 ·  ⭐ 37) - RM-synthesis, RM-clean and QU-fitting on polarised radio spectra. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/CIRADA-Tools/RM-Tools/wiki">RM-Tools</a></b> (🥇15 ·  ⭐ 37 · 📈) - RM-synthesis, RM-clean and QU-fitting on polarised radio spectra. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/CIRADA-Tools/RM-Tools) (👨‍💻 13 · 🔀 22 · 📦 2 · 📋 73 - 41% open · ⏱️ 20.03.2024):
+- [GitHub](https://github.com/CIRADA-Tools/RM-Tools) (👨‍💻 13 · 🔀 22 · 📦 2 · 📋 68 - 33% open · ⏱️ 26.03.2024):
 
 	```
 	git clone https://github.com/CIRADA-Tools/RM-Tools
@@ -356,19 +356,19 @@ _Analysis of bursts_
 	```
 	git clone https://github.com/abatten/fruitbat
 	```
-- [PyPi](https://pypi.org/project/fruitbat) (📥 28 / month · ⏱️ 06.07.2021):
+- [PyPi](https://pypi.org/project/fruitbat) (📥 25 / month · ⏱️ 06.07.2021):
 	```
 	pip install fruitbat
 	```
 </details>
-<details><summary><b><a href="https://github.com/mef51/frbgui">frbgui</a></b> (🥈10 ·  ⭐ 18) - A GUI for measuring properties of Fast Radio Bursts. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code> <code><img src="https://git.io/JLy1E" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/mef51/frbgui">frbgui</a></b> (🥈9 ·  ⭐ 18 · 📉) - A GUI for measuring properties of Fast Radio Bursts. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code> <code><img src="https://git.io/JLy1E" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/mef51/frbgui) (👨‍💻 3 · 🔀 1 · 📋 28 - 57% open · ⏱️ 21.02.2024):
 
 	```
 	git clone https://github.com/mef51/frbgui
 	```
-- [PyPi](https://pypi.org/project/frbgui) (📥 22 / month · ⏱️ 25.09.2023):
+- [PyPi](https://pypi.org/project/frbgui) (📥 13 / month · ⏱️ 25.09.2023):
 	```
 	pip install frbgui
 	```
@@ -388,7 +388,7 @@ _Analysis of bursts_
 	```
 	git clone https://github.com/thepetabyteproject/burstfit
 	```
-- [PyPi](https://pypi.org/project/burstfit) (📥 22 / month · ⏱️ 29.03.2021):
+- [PyPi](https://pypi.org/project/burstfit) (📥 16 / month · ⏱️ 29.03.2021):
 	```
 	pip install burstfit
 	```
@@ -532,7 +532,7 @@ _Algorithms and/or scripts for RFI mitigation_
 
 _Docker and Signularity Containers_
 
-<details><summary><b><a href="https://github.com/josephwkania/radio_transients">radio_transients</a></b> (🥇7 ·  ⭐ 6 · 📈) - Singularity containers with common radio transient.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code> <code><img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/c/c.svg" style="display:inline;" width="13" height="13"></code> <code><img src="https://upload.wikimedia.org/wikipedia/en/b/b9/Nvidia_CUDA_Logo.jpg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/josephwkania/radio_transients">radio_transients</a></b> (🥇7 ·  ⭐ 6) - Singularity containers with common radio transient.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code> <code><img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/c/c.svg" style="display:inline;" width="13" height="13"></code> <code><img src="https://upload.wikimedia.org/wikipedia/en/b/b9/Nvidia_CUDA_Logo.jpg" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/josephwkania/radio_transients) (🔀 2 · ⏱️ 14.03.2024):
 
