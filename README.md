@@ -72,7 +72,7 @@ _These software read and write data in common or custom formats_
 	```
 	git clone https://github.com/UCBerkeleySETI/blimpy
 	```
-- [PyPi](https://pypi.org/project/blimpy) (📥 150 / month · 📦 6 · ⏱️ 16.11.2022):
+- [PyPi](https://pypi.org/project/blimpy) (📥 290 / month · 📦 6 · ⏱️ 16.11.2022):
 	```
 	pip install blimpy
 	```
@@ -84,7 +84,7 @@ _These software read and write data in common or custom formats_
 	```
 	git clone https://github.com/thepetabyteproject/your
 	```
-- [PyPi](https://pypi.org/project/your) (📥 290 / month · ⏱️ 22.01.2022):
+- [PyPi](https://pypi.org/project/your) (📥 270 / month · ⏱️ 22.01.2022):
 	```
 	pip install your
 	```
@@ -280,7 +280,7 @@ _FRB catalogues or tools to query FRB catalogues_
 	```
 	git clone https://github.com/mattpitkin/psrqpy
 	```
-- [PyPi](https://pypi.org/project/psrqpy) (📥 810 / month · ⏱️ 02.04.2024):
+- [PyPi](https://pypi.org/project/psrqpy) (📥 740 / month · ⏱️ 02.04.2024):
 	```
 	pip install psrqpy
 	```
@@ -327,7 +327,7 @@ _Analysis of bursts_
 
 <details><summary><b><a href="https://github.com/CIRADA-Tools/RM-Tools/wiki">RM-Tools</a></b> (🥇15 ·  ⭐ 37) - RM-synthesis, RM-clean and QU-fitting on polarised radio spectra. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/CIRADA-Tools/RM-Tools) (👨‍💻 13 · 🔀 22 · 📦 2 · 📋 71 - 30% open · ⏱️ 11.04.2024):
+- [GitHub](https://github.com/CIRADA-Tools/RM-Tools) (👨‍💻 13 · 🔀 22 · 📦 2 · 📋 69 - 28% open · ⏱️ 17.04.2024):
 
 	```
 	git clone https://github.com/CIRADA-Tools/RM-Tools
@@ -349,14 +349,14 @@ _Analysis of bursts_
 	git clone https://github.com/FRBs/pygedm
 	```
 </details>
-<details><summary><b><a href="https://fruitbat.readthedocs.io/">fruitbat</a></b> (🥈11 ·  ⭐ 17 · 💀) - A fast radio burst (FRB) redshift estimation package written in.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://fruitbat.readthedocs.io/">fruitbat</a></b> (🥈12 ·  ⭐ 17 · 💀) - A fast radio burst (FRB) redshift estimation package written in.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/abatten/fruitbat) (👨‍💻 2 · 🔀 5 · 📦 4 · 📋 13 - 23% open · ⏱️ 14.12.2021):
 
 	```
 	git clone https://github.com/abatten/fruitbat
 	```
-- [PyPi](https://pypi.org/project/fruitbat) (📥 15 / month · ⏱️ 06.07.2021):
+- [PyPi](https://pypi.org/project/fruitbat) (📥 35 / month · ⏱️ 06.07.2021):
 	```
 	pip install fruitbat
 	```
@@ -368,7 +368,7 @@ _Analysis of bursts_
 	```
 	git clone https://github.com/mef51/frbgui
 	```
-- [PyPi](https://pypi.org/project/frbgui) (📥 23 / month · ⏱️ 25.09.2023):
+- [PyPi](https://pypi.org/project/frbgui) (📥 26 / month · ⏱️ 25.09.2023):
 	```
 	pip install frbgui
 	```
@@ -388,7 +388,7 @@ _Analysis of bursts_
 	```
 	git clone https://github.com/thepetabyteproject/burstfit
 	```
-- [PyPi](https://pypi.org/project/burstfit) (📥 13 / month · ⏱️ 29.03.2021):
+- [PyPi](https://pypi.org/project/burstfit) (📥 17 / month · ⏱️ 29.03.2021):
 	```
 	pip install burstfit
 	```
