@@ -72,19 +72,19 @@ _These software read and write data in common or custom formats_
 	```
 	git clone https://github.com/UCBerkeleySETI/blimpy
 	```
-- [PyPi](https://pypi.org/project/blimpy) (📥 2.6K / month · 📦 7 · ⏱️ 16.11.2022):
+- [PyPi](https://pypi.org/project/blimpy) (📥 4.3K / month · 📦 7 · ⏱️ 16.11.2022):
 	```
 	pip install blimpy
 	```
 </details>
-<details><summary><b><a href="https://thepetabyteproject.github.io/your/">your</a></b> (🥈20 ·  ⭐ 38 · 📈) - Your Unified Reader. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://thepetabyteproject.github.io/your/">your</a></b> (🥈20 ·  ⭐ 38) - Your Unified Reader. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/thepetabyteproject/your) (👨‍💻 20 · 🔀 26 · 📦 59 · 📋 67 - 1% open · ⏱️ 22.08.2025):
 
 	```
 	git clone https://github.com/thepetabyteproject/your
 	```
-- [PyPi](https://pypi.org/project/your) (📥 1.6K / month · 📦 3 · ⏱️ 22.01.2022):
+- [PyPi](https://pypi.org/project/your) (📥 2.3K / month · 📦 3 · ⏱️ 22.01.2022):
 	```
 	pip install your
 	```
@@ -249,9 +249,9 @@ _ML Classifiers_
 
 _Population synthesis and analysis of FRBs_
 
-<details><summary><b><a href="https://davidgardenier.github.io/frbpoppy/html/index.html">Frbpoppy</a></b> (🥇11 ·  ⭐ 30 · 💤) - Fast Radio Burst Population Synthesis in Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://davidgardenier.github.io/frbpoppy/html/index.html">Frbpoppy</a></b> (🥇11 ·  ⭐ 31 · 💤) - Fast Radio Burst Population Synthesis in Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/TRASAL/frbpoppy) (👨‍💻 7 · 🔀 9 · 📋 54 - 33% open · ⏱️ 03.09.2024):
+- [GitHub](https://github.com/TRASAL/frbpoppy) (👨‍💻 7 · 🔀 10 · 📋 54 - 33% open · ⏱️ 03.09.2024):
 
 	```
 	git clone https://github.com/davidgardenier/frbpoppy
@@ -280,7 +280,7 @@ _FRB catalogues or tools to query FRB catalogues_
 	```
 	git clone https://github.com/mattpitkin/psrqpy
 	```
-- [PyPi](https://pypi.org/project/psrqpy) (📥 2.3K / month · 📦 8 · ⏱️ 31.01.2025):
+- [PyPi](https://pypi.org/project/psrqpy) (📥 3.7K / month · 📦 8 · ⏱️ 31.01.2025):
 	```
 	pip install psrqpy
 	```
@@ -349,26 +349,26 @@ _Analysis of bursts_
 	git clone https://github.com/FRBs/pygedm
 	```
 </details>
-<details><summary><b><a href="https://fruitbat.readthedocs.io/">fruitbat</a></b> (🥈10 ·  ⭐ 17 · 💀) - A fast radio burst (FRB) redshift estimation package written in.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://fruitbat.readthedocs.io/">fruitbat</a></b> (🥈11 ·  ⭐ 17 · 💀) - A fast radio burst (FRB) redshift estimation package written in.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/abatten/fruitbat) (👨‍💻 2 · 🔀 5 · 📦 6 · 📋 13 - 23% open · ⏱️ 14.12.2021):
 
 	```
 	git clone https://github.com/abatten/fruitbat
 	```
-- [PyPi](https://pypi.org/project/fruitbat) (📥 20 / month · ⏱️ 06.07.2021):
+- [PyPi](https://pypi.org/project/fruitbat) (📥 45 / month · ⏱️ 06.07.2021):
 	```
 	pip install fruitbat
 	```
 </details>
-<details><summary><b><a href="https://github.com/mef51/frbgui">frbgui</a></b> (🥈9 ·  ⭐ 22) - A GUI for measuring properties of Fast Radio Bursts. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code> <code><img src="https://git.io/JLy1E" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/mef51/frbgui">frbgui</a></b> (🥈10 ·  ⭐ 22 · 📈) - A GUI for measuring properties of Fast Radio Bursts. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code> <code><img src="https://git.io/JLy1E" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/mef51/frbgui) (👨‍💻 3 · 🔀 1 · 📦 2 · 📋 30 - 56% open · ⏱️ 21.05.2025):
 
 	```
 	git clone https://github.com/mef51/frbgui
 	```
-- [PyPi](https://pypi.org/project/frbgui) (📥 19 / month · ⏱️ 03.01.2025):
+- [PyPi](https://pypi.org/project/frbgui) (📥 22 / month · ⏱️ 03.01.2025):
 	```
 	pip install frbgui
 	```
@@ -380,14 +380,14 @@ _Analysis of bursts_
 	```
 	git clone https://github.com/thepetabyteproject/burstfit
 	```
-- [PyPi](https://pypi.org/project/burstfit) (📥 28 / month · ⏱️ 29.03.2021):
+- [PyPi](https://pypi.org/project/burstfit) (📥 37 / month · ⏱️ 29.03.2021):
 	```
 	pip install burstfit
 	```
 </details>
-<details><summary><b><a href="https://github.com/danielemichilli/DM_phase">DM_Phase</a></b> (🥉7 ·  ⭐ 26) - Tool to calculate the best dispersion measure for a burst using.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/danielemichilli/DM_phase">DM_Phase</a></b> (🥉7 ·  ⭐ 27) - Tool to calculate the best dispersion measure for a burst using.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/danielemichilli/DM_phase) (👨‍💻 9 · 🔀 11 · ⏱️ 21.07.2025):
+- [GitHub](https://github.com/danielemichilli/DM_phase) (👨‍💻 9 · 🔀 12 · ⏱️ 21.07.2025):
 
 	```
 	git clone https://github.com/danielemichilli/DM_phase
