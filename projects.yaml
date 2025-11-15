@@ -276,6 +276,12 @@ projects:
     show: True
     homepage: "https://github.com/lintian233/astroflow"
     pypi_id: "pulseflow"
+  - name: "TransientX"
+    github_id: "ypmen/TransientX"
+    labels: ["cpp"]
+    category: "Search"
+    show: True
+    homepage: "https://github.com/ypmen/TransientX"
   - name: "RFIClean"
     github_id: "ymaan4/RFIClean"
     "labels" : ["C"]
