@@ -269,6 +269,13 @@ projects:
     category: "Search"
     show: True
     homepage: "https://github.com/AstroAccelerateOrg/astro-accelerate"
+  - name: "AstroFlow"
+    github_id: "lintian233/astroflow"
+    labels: ["python", "cpp", "CUDA"]
+    category: "Search"
+    show: True
+    homepage: "https://github.com/lintian233/astroflow"
+    pypi_id: "pulseflow"
   - name: "RFIClean"
     github_id: "ymaan4/RFIClean"
     "labels" : ["C"]
