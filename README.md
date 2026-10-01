@@ -84,7 +84,7 @@ _These software read and write data in common or custom formats_
 	```
 	git clone https://github.com/thepetabyteproject/your
 	```
-- [PyPi](https://pypi.org/project/your) (📥 600 / month · 📦 3 · ⏱️ 22.01.2022):
+- [PyPi](https://pypi.org/project/your) (📥 500 / month · 📦 3 · ⏱️ 22.01.2022):
 	```
 	pip install your
 	```
@@ -144,7 +144,7 @@ _Single Pulse Search software_
 	```
 	git clone https://github.com/lintian233/astroflow
 	```
-- [PyPi](https://pypi.org/project/pulseflow) (📥 77 / month · ⏱️ 31.05.2026):
+- [PyPi](https://pypi.org/project/pulseflow) (📥 110 / month · ⏱️ 31.05.2026):
 	```
 	pip install pulseflow
 	```
@@ -295,7 +295,7 @@ _FRB catalogues or tools to query FRB catalogues_
 
 <details><summary><b><a href="https://psrqpy.readthedocs.io">psrqpy</a></b> (🥇18 ·  ⭐ 48) - A python module to query the ATNF pulsar catalogue. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/mattpitkin/psrqpy) (👨‍💻 13 · 🔀 28 · 📦 40):
+- [GitHub](https://github.com/mattpitkin/psrqpy) (👨‍💻 13 · 🔀 28 · 📦 41):
 
 	```
 	git clone https://github.com/mattpitkin/psrqpy
@@ -361,6 +361,18 @@ _Analysis of bursts_
 	git clone https://github.com/CIRADA-Tools/RM-Tools
 	```
 </details>
+<details><summary><b><a href="https://github.com/mef51/frbgui">frbgui</a></b> (🥇9 ·  ⭐ 23 · 💤) - A GUI for measuring properties of Fast Radio Bursts. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code> <code><img src="https://git.io/JLy1E" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/mef51/frbgui) (👨‍💻 3 · 🔀 1 · 📦 2):
+
+	```
+	git clone https://github.com/mef51/frbgui
+	```
+- [PyPi](https://pypi.org/project/frbgui) (📥 26 / month · ⏱️ 27.10.2025):
+	```
+	pip install frbgui
+	```
+</details>
 <details><summary><b><a href="https://fruitbat.readthedocs.io/">fruitbat</a></b> (🥇9 ·  ⭐ 17 · 💀) - A fast radio burst (FRB) redshift estimation package written in.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/abatten/fruitbat) (👨‍💻 2 · 🔀 5 · 📦 6):
@@ -368,21 +380,9 @@ _Analysis of bursts_
 	```
 	git clone https://github.com/abatten/fruitbat
 	```
-- [PyPi](https://pypi.org/project/fruitbat) (📥 45 / month · ⏱️ 06.07.2021):
+- [PyPi](https://pypi.org/project/fruitbat) (📥 46 / month · ⏱️ 06.07.2021):
 	```
 	pip install fruitbat
-	```
-</details>
-<details><summary><b><a href="https://github.com/mef51/frbgui">frbgui</a></b> (🥈8 ·  ⭐ 23 · 💤) - A GUI for measuring properties of Fast Radio Bursts. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code> <code><img src="https://git.io/JLy1E" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/mef51/frbgui) (👨‍💻 3 · 🔀 1 · 📦 2):
-
-	```
-	git clone https://github.com/mef51/frbgui
-	```
-- [PyPi](https://pypi.org/project/frbgui) (📥 13 / month · ⏱️ 27.10.2025):
-	```
-	pip install frbgui
 	```
 </details>
 <details><summary><b><a href="https://pygedm.readthedocs.io">pygedm</a></b> (🥉7 ·  ⭐ 45 · 💀) - Python bindings for YMW16, NE2001 and YT2020 electron.. <code>Unlicensed</code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
@@ -400,7 +400,7 @@ _Analysis of bursts_
 	```
 	git clone https://github.com/thepetabyteproject/burstfit
 	```
-- [PyPi](https://pypi.org/project/burstfit) (📥 9 / month · ⏱️ 29.03.2021):
+- [PyPi](https://pypi.org/project/burstfit) (📥 10 / month · ⏱️ 29.03.2021):
 	```
 	pip install burstfit
 	```
